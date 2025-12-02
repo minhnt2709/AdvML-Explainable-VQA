@@ -1,0 +1,13 @@
+system: |-
+  You are a helpful Vision Language Model assistant.
+user: |-
+  Based on the provided image with bounding boxes, think step by step to generate the scene graph.
+  1. Count the number of objects in the image based on the bounding boxes. Note that bounding boxes can miss some objects.
+  2. Extract attributes for each object: [shape, color, size, material].
+    - shape = [cube, sphere/ball, cylinder]
+    - color = [red, blue, green, yellow, purple, cyan, gray, brown, orange]
+    - size = [small, large]
+    - material = [rubber, metal]
+  3. Determine the positional relationships between each pair of objects in four directions: [right, left] and [in front, behind].
+
+  

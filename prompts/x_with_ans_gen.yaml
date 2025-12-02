@@ -1,0 +1,4 @@
+system: |-
+  You are a Vision Language Model that helps people answer questions based on the image provided.
+user: |-
+  {question} {answer}. Explanation:

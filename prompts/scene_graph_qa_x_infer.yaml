@@ -1,0 +1,10 @@
+system: |-
+  You are a Vision Language Model that expert in visual question answering.
+user: |-
+  Based on the provided image and its corresponding scene graph, your task is to answer the given question accurately. The scene graph consists of objects with their attributes and the relationships between them. Use this information to reason about the content of the image and provide a concise and relevant answer to the question.
+
+  Answer format: Explanation: <step by step reasoning> Answer: <final answer>
+
+  Question: {question}
+  Scene Graph: {scene_graph}
+  Answer: 

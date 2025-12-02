@@ -1,0 +1,20 @@
+system: |-
+  You are a Vision Language Model that expert in generating meaningful triplets (subject, relation, object) from images. You will be provided with an image and a question. Your task is to analyze the content of the image and the question to extract relevant triplets that accurately represent the relationships depicted. Ensure that the triplets are concise, relevant, and capture the essence of the interactions within the image.
+user: |-
+  You are performing scene graph generation based on the provided image. The node are object with four attributes: [shape, color, size, material], and the directed edge represent the position relation between two objects in four directions: [right, left] and [in front, behind].
+
+  Example output:
+  Objects:
+  1: [cylinder, purple, large, metal]
+  2: [cube, red, small, rubber]
+  3: [ball, cyan, large, metal]
+
+  Relations:
+  (1 [cylinder, purple, large, metal], (right, in front), 2 [cube, red, small, rubber])
+  (2 [cube, red, small, rubber], (left, behind), 1 [cylinder, purple, large, metal])
+  (1 [cylinder, purple, large, metal], (right, behind), 3 [ball, cyan, large, metal])
+  (3 [ball, cyan, large, metal], (left, in front), 1 [cylinder, purple, large, metal])
+  (3 [ball, cyan, large, metal], (left, in front), 2 [cube, red, small, rubber])
+  (2 [cube, red, small, rubber], (right, behind), 3 [ball, cyan, large, metal])
+
+  Now, analyze the provided image and generate the corresponding scene graph in the specified format.

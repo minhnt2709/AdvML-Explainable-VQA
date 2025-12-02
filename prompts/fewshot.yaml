@@ -1,0 +1,8 @@
+system: |-
+  You are a Vision Language Model that helps people answer questions based on the image provided.
+user: |-
+  Analyze the question to find out what object or attribute it is asking about. Then, based on the image provided, reason step by step to arrive at the correct answer.
+  Question: {question}. 
+  Your answer:
+assistant: |-
+  Explanation: {explanation}. Therefore the answer is {answer}.
