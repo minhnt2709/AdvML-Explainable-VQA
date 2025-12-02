@@ -1,0 +1,501 @@
+id,answer,explanation
+0,metal,There is a yellow metallic cylinder which is on the right side of the tiny rubber sphere that is in front of the red metal block. Therefore the answer is metal.
+1,no,There are no things which have the identical shape as a small red ball. Therefore the answer is no.
+2,rubber,There is a big matte block which is on the left side of the metallic cube that is in front of the metal sphere that is behind the brown cube. Therefore the answer is rubber.
+3,no,There is a big purple ball and there are two red cubes and a red sphere. Therefore the answer is no.
+4,cylinder,There is a small brown rubber cylinder which has the identical material as a large blue sphere. Therefore the answer is cylinder.
+5,small,There is a tiny metallic cylinder which is to the right of the small gray metal cylinder. Therefore the answer is small.
+6,yes,The small cube is blue and the metal cylinder to the left of the large brown shiny sphere is blue. Therefore the answer is yes.
+7,0,There are no purple things. Therefore the answer is 0.
+8,yes,There are no large gray cubes which are behind the large rubber cube and there are no tiny cyan metal balls. Therefore the answer is yes.
+9,yes,There is a green cylinder which has the identical color as a large rubber cube. Therefore the answer is yes.
+10,rubber,The tiny block to the right of the gray rubber cube is matte. Therefore the answer is rubber.
+11,no,There is a gray cylinder and there are two tiny cylinders. Therefore the answer is no.
+12,yes,There is a matte sphere that is to the left of the tiny green cube and there are no small cyan shiny things. Therefore the answer is yes.
+13,no,There are no big purple cylinders that have the same material as a green sphere. Therefore the answer is no.
+14,cyan,There is a cyan ball behind the large cyan block and to the right of the small blue metal cylinder. Therefore the answer is cyan.
+15,cube,There is a red cube that has the same color as a large rubber ball. Therefore the answer is cube.
+16,yes,There are no green metal balls and there are two cyan shiny spheres. Therefore the answer is yes.
+17,no,There is a big gray metal block and there is a brown matte cylinder. Therefore the answer is no.
+18,small,There is a tiny blue matte cube that is to the right of the small cyan block. Therefore the answer is small.
+19,small,There is a small rubber sphere which is behind the big metal cube that is in front of the cyan shiny ball. Therefore the answer is small.
+20,rubber,There is a large cyan rubber cube which has the identical color as a large metal block. Therefore the answer is rubber.
+21,cyan,There is a cyan shiny ball which is on the right side of the large blue metal cylinder. Therefore the answer is cyan.
+22,yes,The big block is cyan and the sphere is cyan. Therefore the answer is yes.
+23,0,There are no big purple things which have the identical material as a big purple block. Therefore the answer is 0.
+24,small,There is a small blue matte block which is on the left side of the matte cylinder that is left of the big green cube. Therefore the answer is small.
+25,cube,The tiny red rubber thing has the same color as a metal cylinder. Therefore the answer is cube.
+26,yes,The rubber cylinder is red and the large metal cylinder to the right of the small red metallic cylinder is red. Therefore the answer is yes.
+27,no,There are four shiny cylinders and there are two big purple cylinders. Therefore the answer is no.
+28,no,There is a big rubber ball which is to the left of the tiny purple rubber sphere and there is a small metal cylinder which is behind the large ball. Therefore the answer is no.
+29,cube,The big rubber block has the same material as a blue ball. Therefore the answer is cube.
+30,yes,The tiny rubber block in front of the yellow ball is gray and the rubber cylinder is gray. Therefore the answer is yes.
+31,cylinder,There is a blue shiny cylinder which has the identical color as a rubber cylinder. Therefore the answer is cylinder.
+32,yes,There is a large red shiny cube and there is a tiny red shiny cube. Therefore the answer is yes.
+33,metal,There is a large shiny cylinder which is behind the metallic cube that is left of the large cylinder that is behind the big cyan metal cylinder. Therefore the answer is metal.
+34,cylinder,There is a large cyan cylinder which has the identical size as a gray matte cube. Therefore the answer is cylinder.
+35,no,There are no gray cylinders that have the same material as a red cylinder. Therefore the answer is no.
+36,brown,There is a brown matte block which is on the right side of the gray cylinder that is right of the tiny cube that is in front of the tiny yellow metallic cube. Therefore the answer is brown.
+37,false,There are no red rubber cubes that are to the left of the brown matte cube and there are no small red rubber blocks. Therefore the answer is False.
+38,cube,There is a red cube that is left of the small metal block that is right of the cyan shiny cylinder. Therefore the answer is cube.
+39,no,There are no things which have the identical material as a big purple ball. Therefore the answer is no.
+40,1,There is a ball. Therefore the answer is 1.
+41,no,There are no things which have the identical size as a purple shiny cylinder. Therefore the answer is no.
+42,no,There is a large cyan matte sphere and there is a tiny blue rubber cylinder which is behind the brown metal cylinder. Therefore the answer is no.
+43,large,There is a large red rubber cube which has the identical material as a purple ball. Therefore the answer is large.
+44,yes,There is the purple metallic block that has the same color as a small sphere. Therefore the answer is yes.
+45,metal,There is a small brown metal cube which has the identical color as a large metallic block. Therefore the answer is metal.
+46,sphere,There is a red rubber sphere which has the identical material as a large cyan ball. Therefore the answer is sphere.
+47,cylinder,There is a large gray cylinder that has the same size as a metallic sphere. Therefore the answer is cylinder.
+48,no,There is a gray metal ball and there is a big gray rubber cylinder. Therefore the answer is no.
+49,no,There are no things which have the identical size as a green cylinder. Therefore the answer is no.
+50,yes,There are two brown cubes and a brown cylinder which have the identical color as a large matte block. Therefore the answer is yes.
+51,0,There are no things which have the identical color as a small metallic cube. Therefore the answer is 0.
+52,0,There are no balls which are on the left side of the cylinder. Therefore the answer is 0.
+53,rubber,There is a cyan rubber cylinder which has the identical color as a large ball. Therefore the answer is rubber.
+54,no,There is a small gray matte cube and there is a red matte block which is behind the red cylinder. Therefore the answer is no.
+55,large,There is the large purple metal cylinder which has the identical color as a small block. Therefore the answer is large.
+56,0,There are no large purple cylinders which are on the left side of the cyan cylinder that is behind the large brown ball. Therefore the answer is 0.
+57,cylinder,There is a big cylinder which is on the left side of the large matte cylinder that is in front of the purple sphere. Therefore the answer is cylinder.
+58,rubber,The small cube to the right of the tiny green cylinder is matte. Therefore the answer is rubber.
+59,0,There are no things which have the identical color as a big rubber block. Therefore the answer is 0.
+60,yes,There are no blue rubber cubes which are behind the cyan matte ball and there are no tiny red cylinders. Therefore the answer is yes.
+61,metal,There is a tiny gray metallic cylinder which has the identical size as a cube. Therefore the answer is metal.
+62,1,There is a gray sphere that has the same color as a big metallic cylinder. Therefore the answer is 1.
+63,yes,There is a blue cube and there is a tiny cube which is behind the blue matte cube. Therefore the answer is yes.
+64,1,There is a big sphere. Therefore the answer is 1.
+65,cylinder,There is a large purple cylinder which has the identical size as a cyan ball. Therefore the answer is cylinder.
+66,yes,There is a purple metallic cylinder which has the identical material as a big green block. Therefore the answer is yes.
+67,yes,The tiny cylinder is metal and the purple sphere is metal. Therefore the answer is yes.
+68,no,There is a tiny purple cylinder which is behind the purple sphere and there is a large purple cylinder which is on the left side of the small cyan metal block. Therefore the answer is no.
+69,2,There are two metallic balls which are behind the large ball that is right of the big yellow rubber sphere. Therefore the answer is 2.
+70,0,There are no small cyan shiny things which are on the left side of the big matte cube that is left of the rubber block that is right of the large gray rubber cube. Therefore the answer is 0.
+71,0,There are no metallic things which are behind the gray cylinder. Therefore the answer is 0.
+72,no,There are no things which have the identical shape as a big rubber block. Therefore the answer is no.
+73,yes,There is a blue cylinder which has the identical color as a small cube. Therefore the answer is yes.
+74,1,There is a cyan cylinder. Therefore the answer is 1.
+75,no,There are no things which have the identical size as a green rubber sphere. Therefore the answer is no.
+76,0,There is a block right of the big blue block and behind the blue rubber sphere. Therefore the answer is 0.
+77,yes,The metal sphere is big and the gray matte block is big. Therefore the answer is yes.
+78,rubber,There is a small blue rubber cylinder which is behind the small brown cylinder. Therefore the answer is rubber.
+79,rubber,The small blue ball is rubber. Therefore the answer is rubber.
+80,5,There are three metallic spheres and two metallic cubes that have the same material as a small gray block. Therefore the answer is 5.
+81,1,There is a gray metal sphere that has the same material as a tiny cube. Therefore the answer is 1.
+82,cube,There is the small gray cube that has the same color as a matte ball. Therefore the answer is cube.
+83,cyan,The small cyan rubber cube has the same size as a yellow rubber cylinder. Therefore the answer is cyan.
+84,small,The small red cube has the same shape as a tiny cyan metal block. Therefore the answer is small.
+85,no,There are no small gray cylinders that have the same material as a large cyan ball. Therefore the answer is no.
+86,large,There is a large metallic cylinder. Therefore the answer is large.
+87,yes,There are no gray rubber cylinders which are in front of the blue rubber cube and there are no large cubes that are to the left of the purple cylinder. Therefore the answer is yes.
+88,metal,There is a big cyan shiny block which has the identical color as a tiny matte sphere. Therefore the answer is metal.
+89,no,There are no things which have the identical size as a yellow metallic block. Therefore the answer is no.
+90,small,There is a small red metallic ball which has the identical shape as a tiny cyan rubber ball. Therefore the answer is small.
+91,yes,The brown cube is shiny and the purple ball is shiny. Therefore the answer is yes.
+92,3,There are two blue cubes and there is a big purple sphere. Therefore the answer is 3.
+93,metal,There is a blue shiny cylinder which has the identical color as a large rubber cylinder. Therefore the answer is metal.
+94,cylinder,There is a small yellow cylinder which has the identical color as a small sphere. Therefore the answer is cylinder.
+95,no,There is a purple matte sphere and there is a small shiny ball which is behind the purple matte sphere. Therefore the answer is no.
+96,yes,There is a big blue rubber ball which has the identical size as a gray matte cylinder. Therefore the answer is yes.
+97,cube,There is a yellow matte cube that has the same color as a large shiny cube. Therefore the answer is cube.
+98,no,The cylinder to the left of the tiny red metal cylinder is blue and the big cylinder is green. Therefore the answer is no.
+99,yes,There is a big metallic cube that is right of the tiny rubber cylinder and there are no large purple shiny blocks that are in front of the large gray cube. Therefore the answer is yes.
+100,gray,The gray shiny cube has the same shape as a brown metal block. Therefore the answer is gray.
+101,small,There is a small shiny sphere behind the large shiny cylinder and in front of the green shiny block. Therefore the answer is small.
+102,1,There is a blue metal cube that has the same material as a cyan block. Therefore the answer is 1.
+103,yes,The big rubber cylinder is red and the large matte sphere is red. Therefore the answer is yes.
+104,sphere,There is the cyan metallic ball which has the identical color as a big matte sphere. Therefore the answer is sphere.
+105,rubber,There is a rubber sphere which is in front of the shiny block that is in front of the matte cylinder that is left of the tiny matte cylinder. Therefore the answer is rubber.
+106,rubber,The large brown ball on the left side of the metal cylinder that is left of the shiny cylinder behind the green metal sphere is rubber. Therefore the answer is rubber.
+107,no,There is a tiny blue matte ball and there is a metallic block which is on the right side of the large yellow cube. Therefore the answer is no.
+108,no,There are no things which have the identical size as a red cylinder. Therefore the answer is no.
+109,large,There is a large green metallic cylinder which has the identical shape as a small green matte cylinder. Therefore the answer is large.
+110,cylinder,The large green metallic thing is a cylinder. Therefore the answer is cylinder.
+111,1,There is a small block which is behind the red cylinder that is in front of the yellow cube that is behind the small yellow shiny cube. Therefore the answer is 1.
+112,no,There is a tiny cyan metal ball and there is a big yellow cylinder. Therefore the answer is no.
+113,no,There are no tiny shiny things which have the identical shape as a small green ball. Therefore the answer is no.
+114,no,There is a tiny block which is to the right of the gray cube and there is a large metal cube that is behind the rubber cylinder. Therefore the answer is no.
+115,no,There is a large yellow metallic cylinder and there is a tiny matte ball which is in front of the cylinder. Therefore the answer is no.
+116,yes,The sphere in front of the tiny rubber cube is yellow and the matte block on the left side of the tiny rubber block is yellow. Therefore the answer is yes.
+117,no,There are two big gray cylinders which are in front of the big red cube and there is a brown metal block. Therefore the answer is no.
+118,no,There are no things which have the identical material as a small cube. Therefore the answer is no.
+119,yes,The metal cube is red and the cylinder to the right of the cube is red. Therefore the answer is yes.
+120,metal,There is a large metal cylinder which has the identical size as a red cube. Therefore the answer is metal.
+121,cyan,There is a big cyan block behind the purple metallic ball and to the left of the yellow rubber sphere. Therefore the answer is cyan.
+122,metal,There is a tiny yellow metal cube which has the identical size as a cylinder. Therefore the answer is metal.
+123,no,There are no things which have the identical material as a tiny cyan cube. Therefore the answer is no.
+124,2,There is a big sphere and there is a big cylinder. Therefore the answer is 2.
+125,yes,There is a cyan shiny cylinder which is to the right of the big cylinder and there is a tiny cyan rubber cylinder that is right of the tiny green sphere. Therefore the answer is yes.
+126,1,There is a big matte cylinder. Therefore the answer is 1.
+127,no,There are no things which have the identical size as a shiny ball. Therefore the answer is no.
+128,1,There is a green cylinder which has the identical shape as a large cyan cylinder. Therefore the answer is 1.
+129,gray,There is a tiny gray cylinder which is on the right side of the sphere that is left of the tiny cylinder that is right of the red metal ball. Therefore the answer is gray.
+130,no,There are no things which have the identical size as a brown matte sphere. Therefore the answer is no.
+131,large,There is a large block behind the tiny matte cylinder and to the left of the green ball. Therefore the answer is large.
+132,small,There is a small ball to the right of the big cylinder and in front of the tiny yellow sphere. Therefore the answer is small.
+133,0,There are no rubber things. Therefore the answer is 0.
+134,0,There are no metallic balls. Therefore the answer is 0.
+135,small,There is a small green matte ball which has the identical material as a cyan sphere. Therefore the answer is small.
+136,no,There is a big matte block which is to the left of the gray shiny cube and there is a brown metallic sphere. Therefore the answer is no.
+137,blue,There is a tiny blue rubber sphere which is on the left side of the purple cylinder. Therefore the answer is blue.
+138,0,There are no shiny things. Therefore the answer is 0.
+139,no,There are no things which have the identical shape as a large metallic ball. Therefore the answer is no.
+140,no,There are two metallic spheres and two tiny rubber cylinders which are behind the yellow metallic sphere and there is a tiny rubber cylinder. Therefore the answer is no.
+141,no,There is a cyan rubber cube and there are two big matte spheres. Therefore the answer is no.
+142,yes,The tiny cylinder is brown and the metallic sphere on the right side of the tiny gray metal sphere is brown. Therefore the answer is yes.
+143,no,There are no things which have the identical size as a purple ball. Therefore the answer is no.
+144,no,There is a matte ball which is on the left side of the green sphere and there is a purple metallic cylinder. Therefore the answer is no.
+145,yes,There is a shiny cube that is in front of the yellow sphere and there is a matte cube that is to the left of the small cyan matte cube. Therefore the answer is yes.
+146,yellow,The yellow rubber cylinder has the same material as a green cylinder. Therefore the answer is yellow.
+147,red,There is a red matte cylinder to the left of the tiny purple sphere and to the right of the tiny cyan rubber sphere. Therefore the answer is red.
+148,5,There are three metallic spheres and two metallic cylinders that have the same material as a small gray cylinder. Therefore the answer is 5.
+149,yes,There is a rubber ball that is behind the tiny matte sphere that is left of the small blue rubber cube. Therefore the answer is yes.
+150,yes,There is a shiny sphere which is to the left of the large yellow block and there are no small red spheres that are left of the tiny green cube. Therefore the answer is yes.
+151,no,There are no things which have the identical size as a brown sphere. Therefore the answer is no.
+152,false,There is a cylinder which is in front of the shiny block and there are no rubber cubes which are to the right of the big matte cube. Therefore the answer is False.
+153,yes,There is a tiny block which is on the right side of the small sphere that is right of the cube that is left of the green rubber ball. Therefore the answer is yes.
+154,large,The metal ball in front of the red sphere is large. Therefore the answer is large.
+155,sphere,There is a small sphere which is behind the metal cube that is right of the blue ball that is in front of the big metallic cube. Therefore the answer is sphere.
+156,1,There is a small cube that has the same size as a red cube. Therefore the answer is 1.
+157,yes,There is a large sphere that is behind the big gray metallic cylinder and there is a green cube which is on the right side of the large green rubber sphere. Therefore the answer is yes.
+158,2,There are two matte balls that are to the left of the small metal cube. Therefore the answer is 2.
+159,large,There is a big brown metallic cylinder which has the identical material as a block. Therefore the answer is large.
+160,no,There are no things which have the identical material as a tiny green sphere. Therefore the answer is no.
+161,no,The matte cylinder in front of the large red block is small and the cube in front of the yellow cylinder is big. Therefore the answer is no.
+162,small,There is a tiny yellow ball which has the identical shape as a gray metal sphere. Therefore the answer is small.
+163,yes,The shiny thing is a ball and the cyan object is a sphere. Therefore the answer is yes.
+164,no,There is a metal block which is in front of the small blue metal sphere and there is a small red cylinder. Therefore the answer is no.
+165,cube,There is a tiny cube that is to the right of the cylinder. Therefore the answer is cube.
+166,rubber,There is a small purple matte cylinder which has the identical color as a tiny metallic cube. Therefore the answer is rubber.
+167,no,There are no things which have the identical shape as a big blue block. Therefore the answer is no.
+168,false,There are no tiny rubber things which are on the left side of the tiny yellow rubber sphere and there are no large cyan things. Therefore the answer is False.
+169,yes,"There are four rubber spheres, two rubber cylinders and a rubber cube which have the identical material as a big purple cylinder. Therefore the answer is yes."
+170,rubber,There is a green matte sphere which has the identical color as a big cylinder. Therefore the answer is rubber.
+171,no,There are three spheres that are to the left of the gray rubber sphere and there are two big spheres and a big cylinder. Therefore the answer is no.
+172,no,There are no things which have the identical size as a metallic block. Therefore the answer is no.
+173,1,There is a large rubber cube that has the same material as a large gray block. Therefore the answer is 1.
+174,no,There are no things which have the identical material as a small brown cylinder. Therefore the answer is no.
+175,1,There is a green metal cylinder that has the same color as a big cube. Therefore the answer is 1.
+176,green,There is a small green shiny ball which has the identical size as a brown block. Therefore the answer is green.
+177,metal,There is a purple shiny cube which has the identical color as a tiny sphere. Therefore the answer is metal.
+178,cyan,There is a cyan metal sphere on the right side of the green cylinder and behind the green cylinder. Therefore the answer is cyan.
+179,no,There are no things which have the identical size as a red ball. Therefore the answer is no.
+180,yes,There is a big green rubber sphere that is in front of the brown matte sphere and there is a large cyan cube. Therefore the answer is yes.
+181,cube,There is a large gray matte cube which has the identical size as a brown cube. Therefore the answer is cube.
+182,no,There are no things which have the identical material as a big brown block. Therefore the answer is no.
+183,1,There is a cyan cube that has the same color as a big shiny sphere. Therefore the answer is 1.
+184,yes,The big rubber cube is brown and the tiny shiny cylinder in front of the yellow shiny cylinder is brown. Therefore the answer is yes.
+185,no,There is a green shiny cylinder which is behind the tiny blue ball and there are two large rubber cylinders. Therefore the answer is no.
+186,0,There are no tiny things. Therefore the answer is 0.
+187,cube,The big purple shiny thing has the same color as a sphere. Therefore the answer is cube.
+188,yes,There is a large blue matte cube that is behind the brown rubber sphere and there is a blue metallic sphere which is behind the green block. Therefore the answer is yes.
+189,false,There are no cylinders that are in front of the purple metallic sphere and there are no large brown shiny balls. Therefore the answer is False.
+190,sphere,There is a large sphere behind the big green cylinder. Therefore the answer is sphere.
+191,2,There are two cylinders which have the identical shape as a red shiny cylinder. Therefore the answer is 2.
+192,rubber,The small red cylinder behind the large metal ball is matte. Therefore the answer is rubber.
+193,no,There are no things which have the identical color as a large ball. Therefore the answer is no.
+194,no,There is a large brown block and there are no small gray cubes. Therefore the answer is no.
+195,rubber,The tiny matte sphere has the same shape as a purple metallic sphere. Therefore the answer is rubber.
+196,rubber,There is a blue matte cylinder. Therefore the answer is rubber.
+197,1,There is the rubber sphere that has the same material as a tiny purple cylinder. Therefore the answer is 1.
+198,no,There is a cube that is right of the yellow sphere and there is a large yellow metal ball. Therefore the answer is no.
+199,green,The big cylinder to the right of the rubber ball that is behind the large cylinder that is behind the big green cylinder is green. Therefore the answer is green.
+200,1,There is a small green rubber block which is behind the sphere that is in front of the blue rubber cylinder. Therefore the answer is 1.
+201,metal,There is a tiny gray metal sphere which has the identical size as a shiny block. Therefore the answer is metal.
+202,no,There are no tiny yellow metallic things which are in front of the blue sphere that is in front of the cube that is right of the brown matte ball. Therefore the answer is no.
+203,cube,There is a rubber cube that has the same material as a ball. Therefore the answer is cube.
+204,no,There are no things which have the identical shape as a matte block. Therefore the answer is no.
+205,yes,There are no small matte things which are behind the large matte ball and there are no brown metal spheres. Therefore the answer is yes.
+206,yes,There is a tiny gray shiny block and there are no blue blocks. Therefore the answer is yes.
+207,yes,The tiny metal cylinder is green and the small rubber sphere is green. Therefore the answer is yes.
+208,yes,There is a small cylinder which has the identical shape as a large cyan metal cylinder. Therefore the answer is yes.
+209,yes,There is a tiny yellow sphere that is to the left of the large blue cylinder. Therefore the answer is yes.
+210,yes,There are no large cylinders which are in front of the big gray cylinder and there are no tiny cyan shiny things which are in front of the small green sphere. Therefore the answer is yes.
+211,yes,There is a tiny purple cube and there is a small brown metal cylinder. Therefore the answer is yes.
+212,purple,There is a purple rubber cylinder in front of the yellow cylinder and to the left of the big red metallic sphere. Therefore the answer is purple.
+213,1,There is a tiny sphere that is behind the red matte sphere. Therefore the answer is 1.
+214,0,There are no things which have the identical shape as a large brown matte cylinder. Therefore the answer is 0.
+215,0,There are no cubes. Therefore the answer is 0.
+216,3,There are two small cylinders and a small cube which have the identical size as a red cylinder. Therefore the answer is 3.
+217,yes,There is a brown rubber cube that is to the left of the large brown matte ball and there are no cyan shiny things. Therefore the answer is yes.
+218,cyan,There is a large cyan matte sphere on the right side of the big blue rubber ball and behind the small purple ball. Therefore the answer is cyan.
+219,0,There are no blue cylinders which are to the right of the large yellow ball. Therefore the answer is 0.
+220,metal,There is a tiny gray metal cylinder which has the identical shape as a small red cylinder. Therefore the answer is metal.
+221,no,There are no things which have the identical shape as a large blue cylinder. Therefore the answer is no.
+222,yes,There is a purple metallic cylinder which has the identical material as a yellow cylinder. Therefore the answer is yes.
+223,1,There is a large yellow cylinder that has the same color as a tiny metal cylinder. Therefore the answer is 1.
+224,2,There is a small rubber cylinder that is left of the small cyan cylinder and there is a green cube which is to the right of the gray metallic sphere. Therefore the answer is 2.
+225,no,There is a large red rubber block and there is a tiny brown matte cylinder. Therefore the answer is no.
+226,no,There are no things which have the identical shape as a big red metal ball. Therefore the answer is no.
+227,no,There is a small green matte block which is in front of the green rubber ball and there is a gray metallic cylinder which is on the right side of the tiny brown ball. Therefore the answer is no.
+228,yes,The small rubber block is gray and the tiny shiny ball is gray. Therefore the answer is yes.
+229,1,There is the rubber sphere which has the identical material as a purple cylinder. Therefore the answer is 1.
+230,cylinder,There is a large gray shiny cylinder which has the identical size as a brown shiny sphere. Therefore the answer is cylinder.
+231,yellow,There is a yellow metallic cylinder which has the identical material as a block. Therefore the answer is yellow.
+232,large,There is a large cylinder in front of the tiny purple cylinder and to the left of the small purple cylinder. Therefore the answer is large.
+233,cyan,There is a tiny cyan cube in front of the tiny blue rubber cylinder and to the right of the yellow matte cube. Therefore the answer is cyan.
+234,1,There is a purple sphere that has the same color as a metallic cylinder. Therefore the answer is 1.
+235,yes,There are two large cubes which have the identical size as a purple cube. Therefore the answer is yes.
+236,no,There are no things which have the identical material as a small yellow sphere. Therefore the answer is no.
+237,large,There is a large gray cube which has the identical color as a small shiny cube. Therefore the answer is large.
+238,no,There is a small matte sphere which is in front of the tiny blue sphere and there is a small metal cube which is behind the red shiny cylinder. Therefore the answer is no.
+239,small,There is a small red sphere which has the identical color as a tiny shiny cube. Therefore the answer is small.
+240,yes,There are two spheres which have the identical shape as a cyan metal ball. Therefore the answer is yes.
+241,yes,There are no tiny brown metallic things and there is a small purple metallic cube. Therefore the answer is yes.
+242,1,There is a green ball that has the same color as a big cylinder. Therefore the answer is 1.
+243,no,There is a gray cylinder which is in front of the big cyan matte cube and there is a red metallic cylinder. Therefore the answer is no.
+244,small,There is a small cylinder in front of the yellow rubber cube and behind the blue cylinder. Therefore the answer is small.
+245,yes,The rubber block is cyan and the big rubber cylinder is cyan. Therefore the answer is yes.
+246,false,There are no yellow matte things which are behind the yellow matte sphere and there are no cyan metal cylinders. Therefore the answer is False.
+247,3,There are two cyan cylinders and a cyan sphere. Therefore the answer is 3.
+248,no,There is a cyan ball and there is a small gray matte block. Therefore the answer is no.
+249,gray,There is a gray cube in front of the tiny purple cube and on the left side of the big purple ball. Therefore the answer is gray.
+250,false,There are no big gray rubber blocks and there is a purple ball. Therefore the answer is False.
+251,sphere,The small red sphere has the same color as a big rubber cylinder. Therefore the answer is sphere.
+252,no,There are no things which have the identical size as a rubber cube. Therefore the answer is no.
+253,no,There are no things which have the identical size as a green metal sphere. Therefore the answer is no.
+254,yes,There is a shiny cube and cylinder that are behind the small metallic ball and there is a green cylinder. Therefore the answer is yes.
+255,1,There is a large cylinder. Therefore the answer is 1.
+256,cylinder,There is a large red matte cylinder which is on the left side of the large matte cube that is right of the brown ball. Therefore the answer is cylinder.
+257,no,There are no things which have the identical material as a big green block. Therefore the answer is no.
+258,yes,There are no small red balls which are on the left side of the green matte cylinder and there are four metal cylinders. Therefore the answer is yes.
+259,cube,There is a big purple block which has the identical color as a tiny matte cube. Therefore the answer is cube.
+260,rubber,The yellow matte cylinder has the same shape as a tiny yellow cylinder. Therefore the answer is rubber.
+261,2,There are two large cylinders. Therefore the answer is 2.
+262,no,There is a big rubber cylinder which is on the right side of the large yellow sphere and there is a shiny cube which is to the right of the big red metal sphere. Therefore the answer is no.
+263,no,There are no things which have the identical size as a metallic block. Therefore the answer is no.
+264,metal,The big green shiny sphere has the same color as a big matte cylinder. Therefore the answer is metal.
+265,5,There are three big spheres and two big cylinders that are in front of the big cyan metal cube and there is a gray block. Therefore the answer is 5.
+266,no,There are no shiny cubes that are in front of the large metal cube that is right of the red metal cube. Therefore the answer is no.
+267,no,There is a small gray cube which is in front of the big metal cylinder and there is a tiny metal ball. Therefore the answer is no.
+268,no,There are no things which have the identical material as a big ball. Therefore the answer is no.
+269,yes,There is a yellow rubber cylinder which has the identical material as a large red cylinder. Therefore the answer is yes.
+270,red,There is a red metal cube which is on the left side of the large rubber ball that is in front of the cylinder that is left of the large purple rubber sphere. Therefore the answer is red.
+271,large,There is the large brown shiny sphere that has the same color as a small matte cube. Therefore the answer is large.
+272,yes,There is a small gray sphere which has the identical size as a blue cylinder. Therefore the answer is yes.
+273,no,There are no things which have the identical shape as a large gray cylinder. Therefore the answer is no.
+274,small,The green block to the left of the big metallic cylinder is small. Therefore the answer is small.
+275,rubber,The green matte ball has the same color as a tiny sphere. Therefore the answer is rubber.
+276,2,There are two matte spheres which have the identical shape as a yellow ball. Therefore the answer is 2.
+277,yes,The matte ball is green and the big metallic cube in front of the gray matte block is green. Therefore the answer is yes.
+278,yes,There are two rubber cubes which have the identical material as a cyan cylinder. Therefore the answer is yes.
+279,0,There are no things which have the identical color as a big metal cylinder. Therefore the answer is 0.
+280,yes,There is a small gray sphere that has the same color as a cube. Therefore the answer is yes.
+281,no,There are no things which have the identical size as a purple shiny cylinder. Therefore the answer is no.
+282,3,There are two rubber cubes and a rubber sphere that have the same material as a cyan cylinder. Therefore the answer is 3.
+283,metal,There is a shiny sphere which is in front of the tiny gray rubber cylinder that is left of the tiny green ball that is left of the red sphere. Therefore the answer is metal.
+284,yes,There are three metallic cylinders and two metallic cubes which have the identical material as a small cyan block. Therefore the answer is yes.
+285,metal,The large green shiny cylinder has the same color as a large matte cylinder. Therefore the answer is metal.
+286,metal,There is a large metal block which is to the right of the matte cylinder that is right of the matte cylinder that is behind the yellow matte cube. Therefore the answer is metal.
+287,3,There is a big cylinder and there are two spheres which are on the left side of the gray matte sphere. Therefore the answer is 3.
+288,no,There are three red spheres and there is a small metallic cube. Therefore the answer is no.
+289,2,There are two cubes that have the same shape as a big gray cube. Therefore the answer is 2.
+290,no,There is a brown small cube and there is a red cylinder that is behind the tiny purple sphere. Therefore the answer is no.
+291,no,There are no things which have the identical material as a big gray ball. Therefore the answer is no.
+292,cyan,There is a large cyan metallic block. Therefore the answer is cyan.
+293,cube,The big purple matte block has the same color as a shiny cube. Therefore the answer is cube.
+294,no,There are no tiny cyan blocks that have the same material as a green cube. Therefore the answer is no.
+295,yes,There is a red metal ball which is behind the tiny brown cube and there are two rubber cylinders that are to the left of the green shiny sphere. Therefore the answer is yes.
+296,yes,There is a large matte cylinder that is to the left of the yellow ball and there is a big cyan cube. Therefore the answer is yes.
+297,metal,There is a yellow metal cylinder which has the identical color as a big cube. Therefore the answer is metal.
+298,gray,There is a tiny gray block which has the identical shape as a red shiny block. Therefore the answer is gray.
+299,no,There is a small brown matte sphere and there are no gray metallic things. Therefore the answer is no.
+300,0,There are no tiny rubber cylinders which have the identical color as a tiny block. Therefore the answer is 0.
+301,no,There are no tiny gray matte balls. Therefore the answer is no.
+302,small,There is a small cylinder behind the cyan cylinder and to the right of the large blue rubber cylinder. Therefore the answer is small.
+303,large,There is a large rubber cube that is to the left of the yellow rubber sphere that is right of the large shiny sphere. Therefore the answer is large.
+304,yes,There is a small cyan metallic ball and there is a purple sphere. Therefore the answer is yes.
+305,no,There are no things which have the identical material as a big cylinder. Therefore the answer is no.
+306,1,There is a cube to the left of the large yellow cube and behind the big cyan rubber cylinder. Therefore the answer is 1.
+307,no,There are no things which have the identical size as a purple rubber cube. Therefore the answer is no.
+308,yes,There are no metallic blocks which are on the left side of the big red metal sphere and there are two tiny spheres. Therefore the answer is yes.
+309,yes,The rubber cylinder behind the big rubber cylinder is small and the cylinder to the right of the purple cylinder is tiny. Therefore the answer is yes.
+310,no,There is a small yellow rubber block which is on the right side of the small red cylinder and there is a small blue metal cylinder. Therefore the answer is no.
+311,yes,There are three spheres which have the identical shape as a big purple rubber ball. Therefore the answer is yes.
+312,sphere,There is a sphere in front of the blue cylinder and to the left of the small gray rubber cube. Therefore the answer is sphere.
+313,1,There is a small cylinder that has the same size as a purple cube. Therefore the answer is 1.
+314,no,There are no things which have the identical material as a purple cylinder. Therefore the answer is no.
+315,no,There are no yellow balls which have the identical size as a green block. Therefore the answer is no.
+316,cylinder,There is a large red rubber cylinder that is behind the brown cube that is right of the brown cube that is left of the tiny metallic sphere. Therefore the answer is cylinder.
+317,red,There is a big red sphere which has the identical shape as a small purple sphere. Therefore the answer is red.
+318,large,There is the large blue metal ball which has the identical shape as a big blue matte ball. Therefore the answer is large.
+319,1,There is a big blue metallic cylinder that is left of the large metal cube that is right of the small blue rubber cube. Therefore the answer is 1.
+320,sphere,There is a purple metal sphere which is behind the large purple metallic sphere that is in front of the big gray cylinder. Therefore the answer is sphere.
+321,1,There is a cube on the right side of the metal cylinder and in front of the small brown cylinder. Therefore the answer is 1.
+322,no,There is a cyan rubber cylinder which is on the right side of the small cyan block and there is a red metallic cube. Therefore the answer is no.
+323,metal,There is a small yellow shiny cube that has the same color as a large rubber cylinder. Therefore the answer is metal.
+324,no,There are no things which have the identical size as a green metallic cylinder. Therefore the answer is no.
+325,no,There are no things which have the identical shape as a red block. Therefore the answer is no.
+326,0,There are no things which have the given properties. Therefore the answer is 0.
+327,5,There are three rubber spheres and a rubber cube and there is a red block which is on the right side of the large red sphere. Therefore the answer is 5.
+328,no,There are no blue metal spheres which are behind the green block. Therefore the answer is no.
+329,small,The blue ball is small. Therefore the answer is small.
+330,red,There is a small red metal sphere which has the identical material as a big gray sphere. Therefore the answer is red.
+331,false,There are no green things which are behind the brown block and there are no metallic blocks that are to the left of the small purple cylinder. Therefore the answer is False.
+332,yes,There is a cyan sphere which has the identical color as a matte cylinder. Therefore the answer is yes.
+333,yes,There is a cylinder which has the identical shape as a large cyan shiny cylinder. Therefore the answer is yes.
+334,2,There is a green metal sphere and there is a big brown sphere that is behind the matte ball. Therefore the answer is 2.
+335,cylinder,There is a cylinder to the left of the blue sphere and in front of the large gray metallic ball. Therefore the answer is cylinder.
+336,no,There are no things which have the identical size as a brown metal sphere. Therefore the answer is no.
+337,small,There is a small metal sphere which is in front of the cylinder that is right of the red ball. Therefore the answer is small.
+338,large,There is a large ball which is in front of the big blue sphere. Therefore the answer is large.
+339,yes,There is a cylinder which is on the left side of the large yellow ball and there is a tiny green rubber cylinder which is to the right of the large cyan cube. Therefore the answer is yes.
+340,large,There is a big ball which is to the right of the big ball that is behind the shiny ball that is right of the large purple sphere. Therefore the answer is large.
+341,no,There are no things which have the identical material as a large red sphere. Therefore the answer is no.
+342,large,The large brown shiny ball has the same color as a rubber sphere. Therefore the answer is large.
+343,rubber,There is a rubber cylinder in front of the small cyan matte sphere and behind the large purple shiny sphere. Therefore the answer is rubber.
+344,small,The small blue cube has the same color as a large matte cylinder. Therefore the answer is small.
+345,no,There is a small cylinder which is behind the cyan cylinder and there is a big shiny cube which is on the right side of the blue metal cylinder. Therefore the answer is no.
+346,no,There are no things which have the identical size as a purple metal cylinder. Therefore the answer is no.
+347,cube,There is a big matte block which has the identical material as a brown sphere. Therefore the answer is cube.
+348,no,There is a large purple ball and there is a big red cylinder that is right of the big red rubber sphere. Therefore the answer is no.
+349,yes,The yellow rubber cylinder is small and the matte cylinder on the left side of the tiny metal sphere is small. Therefore the answer is yes.
+350,2,There are two cylinders which have the identical shape as a big cyan matte cylinder. Therefore the answer is 2.
+351,no,There are no things which have the identical size as a purple block. Therefore the answer is no.
+352,rubber,There is a small matte green sphere. Therefore the answer is rubber.
+353,rubber,The green ball is matte. Therefore the answer is rubber.
+354,rubber,There is a matte cube which has the identical shape as a big purple rubber cube. Therefore the answer is rubber.
+355,no,There are no cyan metal cubes which have the identical size as a cyan cube. Therefore the answer is no.
+356,5,There are three large cubes and two large cylinders that have the same size as a matte sphere. Therefore the answer is 5.
+357,metal,There is a tiny brown shiny block which has the identical color as a metal cylinder. Therefore the answer is metal.
+358,no,There are no things which have the identical shape as a brown matte block. Therefore the answer is no.
+359,small,There is a tiny cyan ball which has the identical shape as a red matte ball. Therefore the answer is small.
+360,2,There are two rubber spheres which have the identical shape as a small red rubber ball. Therefore the answer is 2.
+361,no,There is a small green matte cylinder and there is a cyan shiny block which is behind the rubber cube. Therefore the answer is no.
+362,metal,There is a cyan shiny sphere which has the identical shape as a big red metallic sphere. Therefore the answer is metal.
+363,no,There is a shiny cube and there is a small blue matte sphere. Therefore the answer is no.
+364,rubber,There is a large rubber cylinder to the left of the small brown matte cube and behind the small green matte cylinder. Therefore the answer is rubber.
+365,no,There are no things which have the identical shape as a large gray rubber sphere. Therefore the answer is no.
+366,false,There are no small blue rubber things which are on the right side of the purple cube and there is a purple block which is behind the small metallic cube. Therefore the answer is False.
+367,false,There is a cyan sphere which is behind the blue block and there are no small yellow rubber blocks. Therefore the answer is False.
+368,no,The tiny red thing in front of the green matte cylinder is a cylinder and the small green metallic thing is a cube. Therefore the answer is no.
+369,yes,The blue metal cylinder is big and the gray metallic ball is large. Therefore the answer is yes.
+370,no,There is a tiny blue sphere and there is a big cyan cube. Therefore the answer is no.
+371,3,There are two green spheres and a green cube which have the identical color as a small block. Therefore the answer is 3.
+372,0,There are no gray rubber spheres. Therefore the answer is 0.
+373,0,There are no tiny things. Therefore the answer is 0.
+374,false,There are no red shiny things which have the identical shape as a big red metallic cube. Therefore the answer is False.
+375,metal,There is a tiny gray metal cube which has the identical color as a small ball. Therefore the answer is metal.
+376,yes,The tiny rubber block is blue and the tiny ball is blue. Therefore the answer is yes.
+377,small,There is a small blue cylinder which has the identical shape as a yellow cylinder. Therefore the answer is small.
+378,yes,The cube is purple and the small matte cylinder is purple. Therefore the answer is yes.
+379,yes,There is a tiny cylinder that is in front of the rubber cylinder and there is a small matte cylinder. Therefore the answer is yes.
+380,cube,The large yellow shiny block has the same material as a green sphere. Therefore the answer is cube.
+381,cube,There is a metallic block right of the large metallic cylinder and left of the tiny brown shiny cylinder. Therefore the answer is cube.
+382,small,There is a tiny gray rubber cylinder which has the identical material as a small blue cylinder. Therefore the answer is small.
+383,sphere,The yellow thing is a sphere. Therefore the answer is sphere.
+384,no,There are no things which have the identical color as a large ball. Therefore the answer is no.
+385,yes,There is a large purple ball which has the identical shape as a brown ball. Therefore the answer is yes.
+386,cube,There is a brown block which has the identical color as a large cube. Therefore the answer is cube.
+387,metal,There is a tiny red metal ball which has the identical color as a small rubber block. Therefore the answer is metal.
+388,no,There are no things which have the identical material as a gray cube. Therefore the answer is no.
+389,small,There is a small block which is to the right of the large purple metal ball. Therefore the answer is small.
+390,1,There is a gray metallic cylinder that is behind the big red shiny sphere. Therefore the answer is 1.
+391,no,There are no things which have the identical material as a yellow ball. Therefore the answer is no.
+392,0,There are no large green cubes which are behind the metal sphere. Therefore the answer is 0.
+393,rubber,There is a matte cylinder that is in front of the large cyan rubber ball that is left of the cylinder that is in front of the cyan rubber sphere. Therefore the answer is rubber.
+394,no,There are no things which have the identical material as a big cube. Therefore the answer is no.
+395,cylinder,There is a large shiny cylinder which is behind the brown metallic cylinder that is behind the big matte cube that is in front of the brown metal cylinder. Therefore the answer is cylinder.
+396,cylinder,There is a tiny gray metallic cylinder which has the identical material as a tiny brown cube. Therefore the answer is cylinder.
+397,yes,The tiny cylinder is gray and the large block is gray. Therefore the answer is yes.
+398,false,There are no small matte things which are behind the matte block and there is a red cube that is right of the purple metallic cylinder. Therefore the answer is False.
+399,brown,There is a brown matte cube which has the identical material as a green cylinder. Therefore the answer is brown.
+400,cyan,There is a large cyan metal block which is on the left side of the big purple cylinder. Therefore the answer is cyan.
+401,false,There are no small brown matte cylinders that are behind the tiny green ball and there are no things which are on the left side of the brown rubber cylinder. Therefore the answer is False.
+402,0,There are no things which have the identical color as a small metal ball. Therefore the answer is 0.
+403,0,There are no tiny things. Therefore the answer is 0.
+404,large,There is a large purple metal ball which has the identical material as a big green block. Therefore the answer is large.
+405,metal,There is a large metal sphere which has the identical size as a green cylinder. Therefore the answer is metal.
+406,false,There are no things which have the identical size as a matte ball. Therefore the answer is False.
+407,2,There is a tiny cylinder and there is a shiny ball. Therefore the answer is 2.
+408,no,There are no green cubes which are behind the big gray rubber cube and there is a cyan block. Therefore the answer is no.
+409,large,There is a large shiny ball which is behind the cylinder that is behind the small metal cylinder that is behind the cyan metal cube. Therefore the answer is large.
+410,yes,There is a cyan rubber cylinder which is behind the green matte cylinder and there is a cyan shiny cylinder that is behind the large purple metallic cylinder. Therefore the answer is yes.
+411,yes,There is a tiny purple matte cube that is left of the metal cylinder that is right of the small matte block that is behind the large blue cylinder. Therefore the answer is yes.
+412,no,There is a tiny gray cylinder which is on the left side of the brown metal sphere and there is a large yellow rubber cylinder. Therefore the answer is no.
+413,purple,There is a purple cylinder which is in front of the large red shiny cylinder. Therefore the answer is purple.
+414,4,There are two rubber cubes that are behind the tiny red metallic sphere and there are two large cubes. Therefore the answer is 4.
+415,sphere,The small brown rubber object has the same color as a metallic cylinder. Therefore the answer is sphere.
+416,rubber,There is a matte sphere to the right of the small gray rubber cube and in front of the small blue matte cylinder. Therefore the answer is rubber.
+417,metal,There is a metallic cylinder which is on the right side of the small brown matte cylinder. Therefore the answer is metal.
+418,large,There is a large gray metal sphere. Therefore the answer is large.
+419,no,There are no small shiny things which are to the right of the brown cube. Therefore the answer is no.
+420,2,There is a small cyan metal block which is behind the blue rubber cylinder and there is a cylinder that is in front of the small blue rubber cylinder. Therefore the answer is 2.
+421,rubber,There is a tiny matte cube which is in front of the tiny rubber cube that is right of the large sphere. Therefore the answer is rubber.
+422,sphere,There is a small brown metallic sphere which has the identical material as a big cylinder. Therefore the answer is sphere.
+423,yes,There is a tiny yellow matte cylinder and there is a gray cylinder which is to the right of the tiny yellow cylinder. Therefore the answer is yes.
+424,rubber,There is a large gray rubber sphere that is behind the tiny green matte cylinder. Therefore the answer is rubber.
+425,large,There is the big brown metallic cube which has the identical color as a large matte sphere. Therefore the answer is large.
+426,yes,There is a tiny gray matte cube that is left of the purple rubber sphere and there are no gray metallic spheres. Therefore the answer is yes.
+427,cube,There is a large purple metal block which has the identical material as a big blue cylinder. Therefore the answer is cube.
+428,no,The purple matte thing is a sphere and the thing in front of the large purple matte ball is a cylinder. Therefore the answer is no.
+429,cube,There is a blue rubber block which has the identical material as a cyan cube. Therefore the answer is cube.
+430,0,There are no small rubber cylinders right of the purple matte cylinder and behind the small cyan rubber cylinder. Therefore the answer is 0.
+431,1,There is a blue cube that has the same color as a big metal cube. Therefore the answer is 1.
+432,large,The shiny cylinder on the left side of the big green cylinder is large. Therefore the answer is large.
+433,small,There is a tiny yellow matte sphere which is to the right of the yellow ball that is behind the yellow rubber ball that is right of the big yellow ball. Therefore the answer is small.
+434,false,There are no yellow metal blocks which are in front of the yellow shiny block and there are no big purple metallic things. Therefore the answer is False.
+435,no,There are no big cyan shiny balls that are to the left of the big red sphere and there is a cyan metal ball. Therefore the answer is no.
+436,3,There are two matte cubes and there is a purple cylinder which is in front of the tiny purple matte cube. Therefore the answer is 3.
+437,1,There is a yellow sphere that has the same color as a shiny cylinder. Therefore the answer is 1.
+438,1,There is a green cylinder. Therefore the answer is 1.
+439,small,There is the small red cylinder which has the identical color as a large metallic cube. Therefore the answer is small.
+440,no,There are no things which have the identical color as a large metallic sphere. Therefore the answer is no.
+441,no,There is a purple ball and there is a gray cube. Therefore the answer is no.
+442,large,There is a large green metal sphere which has the identical material as a brown cube. Therefore the answer is large.
+443,sphere,There is a big gray rubber sphere. Therefore the answer is sphere.
+444,3,There is a small cylinder that is in front of the tiny cube and there are two big rubber cubes. Therefore the answer is 3.
+445,1,There is a small cylinder. Therefore the answer is 1.
+446,1,There is a metal ball. Therefore the answer is 1.
+447,2,There are two big blocks which are on the left side of the big purple cube. Therefore the answer is 2.
+448,yes,The metallic ball is red and the big rubber block is red. Therefore the answer is yes.
+449,no,There is a blue shiny sphere and there is a big purple ball that is behind the purple metal block. Therefore the answer is no.
+450,small,There is a small rubber block which is to the right of the large cube that is in front of the small shiny cylinder that is left of the tiny gray cylinder. Therefore the answer is small.
+451,3,There are two cyan cylinders and a cyan sphere that have the same color as a big metal cylinder. Therefore the answer is 3.
+452,metal,There is a brown shiny cube that has the same color as a matte ball. Therefore the answer is metal.
+453,sphere,There is a tiny brown ball which has the identical color as a big metallic cylinder. Therefore the answer is sphere.
+454,3,There are two big spheres which are behind the purple sphere and there is a brown ball. Therefore the answer is 3.
+455,no,There are no things which have the identical color as a big ball. Therefore the answer is no.
+456,purple,There is a small purple shiny block which has the identical material as a tiny purple cylinder. Therefore the answer is purple.
+457,2,There are two rubber cubes that have the same material as a large red ball. Therefore the answer is 2.
+458,red,There is a big red metallic cylinder that is to the left of the shiny cylinder that is behind the big rubber cylinder that is behind the green cylinder. Therefore the answer is red.
+459,1,There is a tiny cyan cube that has the same color as a metal cylinder. Therefore the answer is 1.
+460,rubber,There is a matte ball on the right side of the metal sphere and behind the large rubber cube. Therefore the answer is rubber.
+461,no,There are no small cyan cylinders that are right of the cyan metal cylinder. Therefore the answer is no.
+462,0,There are no blocks. Therefore the answer is 0.
+463,no,There are no things which have the identical material as a small cyan cylinder. Therefore the answer is no.
+464,large,There is a big blue ball which has the identical shape as a red rubber ball. Therefore the answer is large.
+465,1,There is a cube that has the same shape as a large brown rubber cube. Therefore the answer is 1.
+466,no,There are no things which have the identical shape as a gray shiny cylinder. Therefore the answer is no.
+467,rubber,There is a rubber cylinder which is to the left of the big matte block. Therefore the answer is rubber.
+468,0,There are no blue things. Therefore the answer is 0.
+469,small,There is a small purple cylinder which has the identical color as a large metal block. Therefore the answer is small.
+470,metal,There is a brown shiny cylinder which has the identical shape as a red metal cylinder. Therefore the answer is metal.
+471,no,The rubber cylinder on the right side of the blue cube is big and the brown cylinder left of the large blue cube is small. Therefore the answer is no.
+472,yes,The small cube to the right of the yellow rubber cube is blue and the big metal cube is blue. Therefore the answer is yes.
+473,no,There is a blue shiny sphere and there is a small purple rubber block. Therefore the answer is no.
+474,0,There are no cylinders. Therefore the answer is 0.
+475,no,There are no things which have the identical shape as a matte ball. Therefore the answer is no.
+476,yes,There is a tiny gray metallic block and there is a big gray sphere which is behind the red shiny sphere. Therefore the answer is yes.
+477,false,There are no things which have the identical size as a brown rubber cylinder. Therefore the answer is False.
+478,large,There is a large gray metal cylinder which has the identical material as a big purple block. Therefore the answer is large.
+479,1,There is a tiny sphere which is to the left of the rubber block that is behind the big matte cube. Therefore the answer is 1.
+480,cylinder,There is a small gray cylinder which has the identical color as a small rubber cube. Therefore the answer is cylinder.
+481,gray,There is a gray cube to the left of the big brown ball and to the right of the large gray cylinder. Therefore the answer is gray.
+482,no,There is a small cylinder which is in front of the large cube and there is a green rubber sphere. Therefore the answer is no.
+483,rubber,There is a brown matte cylinder which is in front of the brown cylinder that is behind the big ball. Therefore the answer is rubber.
+484,1,There is a cylinder. Therefore the answer is 1.
+485,metal,There is a large blue metal sphere which has the identical color as a big matte cube. Therefore the answer is metal.
+486,sphere,The small brown rubber object has the same color as a tiny shiny cube. Therefore the answer is sphere.
+487,yes,There are three spheres and a cylinder and there are no small green metallic cubes. Therefore the answer is yes.
+488,0,There are no metal cubes which have the identical color as a small shiny block. Therefore the answer is 0.
+489,cube,There is a matte cube left of the large matte cylinder and in front of the gray block. Therefore the answer is cube.
+490,yes,The brown thing is a ball and the metal object on the right side of the large brown rubber sphere is a ball. Therefore the answer is yes.
+491,no,There is a large yellow rubber cube which is to the right of the small ball and there is a big gray matte sphere that is behind the big yellow matte cube. Therefore the answer is no.
+492,no,There are no things which have the identical size as a gray rubber cube. Therefore the answer is no.
+493,no,There is a small yellow ball and there is a cyan rubber cube that is behind the green shiny block. Therefore the answer is no.
+494,yes,There is a large rubber sphere which is to the right of the large purple ball and there is a green rubber ball that is behind the blue metal cube. Therefore the answer is yes.
+495,yes,There is a small metal ball and there is a small brown sphere. Therefore the answer is yes.
+496,yes,There is a tiny matte cylinder which is on the left side of the tiny purple matte cylinder and there is a tiny matte cylinder which is in front of the green cylinder. Therefore the answer is yes.
+497,cylinder,There is a gray cylinder that has the same color as a metal ball. Therefore the answer is cylinder.
+498,cylinder,There is a large cylinder which is behind the purple cube. Therefore the answer is cylinder.
+499,1,There is a tiny brown rubber cylinder which has the identical shape as a red metal cylinder. Therefore the answer is 1.

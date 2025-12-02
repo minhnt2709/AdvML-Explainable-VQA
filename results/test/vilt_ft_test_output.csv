@@ -1,0 +1,501 @@
+id,file,question,answer,explanation
+0,cae1e431d2cab3622a5a8836776f7fed.png,What material is the yellow cylinder that is to the right of the tiny rubber object in front of the red metal block made of?,cyan,tmp
+1,8a5f6ad1cdf68137a64ceee6184df32c.png,Are there any other things that have the same shape as the small red object?,no,tmp
+2,7b41bddb622a585d8076b57a1f068ba0.png,There is a big block that is to the left of the metallic thing in front of the metal thing behind the brown object; what is its material?,6,tmp
+3,c89e052078fe27f843af0d1c81415c79.png,Is the number of big purple objects greater than the number of red objects?,no,tmp
+4,af4b3377a892344f76334b4cbb7051c4.png,What shape is the small brown object that is made of the same material as the large blue sphere?,large,tmp
+5,cb50787d9cd288e867e3eb069d23df32.png,What size is the metallic cylinder that is right of the small gray metal cylinder?,8,tmp
+6,54c975980cd95b2bc501f23244fb0cd2.png,There is a small cube; is it the same color as the metal object left of the large brown shiny sphere?,brown,tmp
+7,14e163fa35acf1e1ca4e174e10003d56.png,How many purple things are tiny cubes or large shiny cylinders?,gray,tmp
+8,be84c5c2947c5dabeb2bfdd47aeb6872.png,Are there an equal number of large gray cubes that are behind the large rubber cube and tiny cyan metal balls?,no,tmp
+9,4df4d7b075a35311d6eb5d83b12d66ce.png,Is there anything else that is the same color as the large rubber cube?,no,tmp
+10,868d86be77a108b202e33df8445ce3f8.png,There is a tiny block right of the gray rubber cube; what material is it?,6,tmp
+11,ba976f7837bc333ae3a7a8330e88177e.png,Is the number of gray cylinders greater than the number of tiny cylinders?,no,tmp
+12,fc5a233bb56e93db8811aeb63b8b35c8.png,Are there more matte objects left of the tiny green cube than small cyan shiny objects?,no,tmp
+13,fd836c20ea071214549816628ab740f1.png,Is there a big purple cylinder made of the same material as the green sphere?,no,tmp
+14,6f429ec3fc4342bcfc60270a7156132f.png,What color is the object that is behind the large cyan block and on the right side of the small blue metal cylinder?,2,tmp
+15,742fc1c4c574bcd033f29137c246aa56.png,The thing that is the same color as the large rubber ball is what shape?,large,tmp
+16,af219bb8cc52e2012d6aaf1ba751cd2b.png,Are there fewer green metal balls than cyan shiny spheres?,no,tmp
+17,c292a6e81ab8002e15c858f451676919.png,Does the big gray metal thing have the same shape as the brown matte thing?,no,tmp
+18,be14049cbf776a20e91fa21985e8c630.png,How big is the blue matte object that is right of the small cyan block?,9,tmp
+19,02014acf332a66824f6f7a3306a14dc8.png,What is the size of the rubber sphere behind the big metal object that is in front of the cyan shiny ball?,8,tmp
+20,d13ef1bf71e8d658bdd405cdd79bdc2a.png,What material is the large thing that is the same color as the large metal block?,cyan,tmp
+21,e7c5d2b29b217a8790efb19a93803b55.png,What is the color of the shiny ball to the right of the large blue metal object?,yellow,tmp
+22,af0acea3e2b40a011dbf55a35498414b.png,Do the big thing and the sphere have the same color?,brown,tmp
+23,83b6adbaa2ed1ff51d2568885150c3ba.png,What number of other big purple things have the same material as the big purple thing?,3,tmp
+24,cf9152b30a726130be04968668fe7589.png,There is a blue matte thing that is to the left of the matte cylinder that is on the left side of the big green cube; what size is it?,9,tmp
+25,909dc58a30b01a96bea5f1083f7a9a33.png,There is a tiny rubber object that is the same color as the metal cylinder; what is its shape?,cylinder,tmp
+26,fee139bd2440922a7a8eb9eae1b94372.png,There is a rubber cylinder; does it have the same color as the large metal cylinder on the right side of the small red metallic object?,brown,tmp
+27,542d02b9f8174f60ed80190ece486ce0.png,Are there more shiny cylinders than big purple cylinders?,brown,tmp
+28,474d5e69dba63e497edf019b2e10031f.png,Do the rubber ball that is on the left side of the tiny purple rubber object and the metal cylinder that is behind the large ball have the same size?,no,tmp
+29,f014a5ff019aa61d91f7a02a98b3e2ed.png,There is a big thing that is the same material as the blue ball; what is its shape?,cylinder,tmp
+30,a6dfc72eafc29c8adb095061ed419e6a.png,There is a tiny rubber block that is in front of the yellow object; is it the same color as the rubber cylinder?,brown,tmp
+31,c3ffd4fb26be7cb8b2b4777fa9a32d94.png,There is a shiny object that is the same color as the rubber cylinder; what is its shape?,cylinder,tmp
+32,bccb3503b55b3fe2d0e6015b78c4046f.png,Is the color of the large shiny cube the same as the tiny shiny object?,brown,tmp
+33,7714e199f4592f27c683c0705757c8e6.png,There is a large thing that is behind the metallic thing that is on the left side of the large cylinder that is behind the big cyan metal cylinder; what is its material?,6,tmp
+34,e5b656645b9e49f3ee6e813c18ad81b2.png,What is the shape of the cyan thing that is the same size as the gray matte object?,cylinder,tmp
+35,0cfd48641919e7ae448387670751e538.png,Are there any gray cylinders made of the same material as the red cylinder?,no,tmp
+36,53611cd4359c14fb7e7929bf567429d1.png,The matte thing to the right of the gray object right of the tiny object that is in front of the tiny yellow metallic cube is what color?,2,tmp
+37,35b5a2449ea286507b2d2e9eec3dd23e.png,Are there fewer red rubber cubes on the left side of the brown matte object than small red rubber blocks?,no,tmp
+38,430e9ecdbeffb52b0fbf5f75b681eec0.png,The red object to the left of the small metal block right of the cyan shiny cylinder is what shape?,cylinder,tmp
+39,68f2f81bb53e5031c503608ca3a77fbd.png,Are there any other things that are made of the same material as the big purple object?,no,tmp
+40,3ce2f973abf29dc669158ce4ad8bc9aa.png,What number of balls are either red matte things or big metallic things?,gray,tmp
+41,6e4d79c75b5ca888deb397fac9e12f98.png,Is there any other thing that is the same size as the purple shiny object?,no,tmp
+42,8eeb2eb9f8662f59dd7db646e6ec6236.png,Does the large cyan thing have the same material as the tiny blue cylinder behind the brown metal object?,no,tmp
+43,2756d1c854099980bde23bb3991ac9ab.png,What is the size of the red cube that is the same material as the purple ball?,9,tmp
+44,3b8c7b62f1fee069fb8dc23b57e2d0d4.png,Is there a metallic object of the same color as the small sphere?,brown,tmp
+45,969f015d9696028572878ca75ffd4f9e.png,What material is the small object that is the same color as the large metallic block?,cyan,tmp
+46,6f63a7fb4f4c25a2f8d18bdc88597526.png,The red object that is made of the same material as the large cyan ball is what shape?,cylinder,tmp
+47,821abfbcecaf86364b4dfe2c13300c01.png,What shape is the other gray object that is the same size as the metallic object?,large,tmp
+48,bca4bf9333aab0ab171af45bb6488e24.png,Do the gray ball and the big gray cylinder have the same material?,no,tmp
+49,1a1523dc174a572450d24817f8c32be5.png,Are there any other things that are the same size as the green thing?,no,tmp
+50,0056eff675cf261fff4444e67173a63c.png,Is there anything else that is the same color as the large matte block?,no,tmp
+51,2341495f119a0ac745ac0ee2f32a5553.png,What number of other things are there of the same color as the small metallic cube?,gray,tmp
+52,b50eefccb2a4fc8fd82ee5308d19cea1.png,How many balls are left of the cylinder?,3,tmp
+53,779af8ae170f8aa078034814fc223979.png,There is a cylinder that is the same color as the large ball; what is it made of?,cyan,tmp
+54,77e4ab6df05b4a810bef03a69e4374af.png,There is a small matte object; is its color the same as the matte block that is behind the red cylinder?,no,tmp
+55,4bf4a5ee9009fe62aa715df5cbaa5434.png,The metal cylinder that is the same color as the small block is what size?,9,tmp
+56,3b4135551c19cd15f8c1f8662cb707cf.png,How many large purple cylinders are to the left of the cyan object behind the large brown ball?,3,tmp
+57,d7997fad3ecad8a027f537ce71ca1584.png,What is the shape of the big object that is to the left of the large matte thing in front of the purple object?,large,tmp
+58,ae6e6ab520e6185aae1e3797d01cf297.png,There is a small thing that is on the right side of the tiny green thing; what is its material?,6,tmp
+59,c54d197e11ac6403433cf2088d233a8d.png,What number of things have the same color as the big rubber block?,gray,tmp
+60,d0891ced6726d2aaa7bcb3b0056c81a4.png,Is the number of blue rubber cubes that are behind the cyan matte ball the same as the number of tiny red cylinders?,no,tmp
+61,9e3cea56a67aa52010e0edc94ab8f831.png,What is the material of the gray cylinder that is the same size as the cube?,6,tmp
+62,e6c2081e1005179d9460ec2704a57de9.png,What number of other objects are there of the same color as the big metallic cylinder?,gray,tmp
+63,7d8cadd3d50d99fc63a7bd202cb1f481.png,Does the blue thing have the same shape as the tiny thing that is behind the blue matte object?,no,tmp
+64,e9120d9ff2750b2a8d9d4591ac12d84f.png,What number of spheres are big green metal things or large purple objects?,gray,tmp
+65,24a9b1aa9f98a51b634f31046c588fe1.png,There is a purple thing that is the same size as the cyan ball; what is its shape?,cylinder,tmp
+66,e0b61b31b2a4590fda8c41d89269eb6e.png,Is there a purple object that has the same material as the big green block?,no,tmp
+67,205b640edb24f521dce5cf7c6a1b4192.png,Is the tiny cylinder made of the same material as the purple object?,no,tmp
+68,a2aa1ba42bd845396ae3e885384b72b7.png,Does the purple cylinder that is behind the purple sphere have the same size as the purple thing left of the small cyan metal block?,no,tmp
+69,99b622774093cd95736c63c911270e06.png,What number of metallic balls are behind the large ball that is on the right side of the big yellow rubber sphere?,3,tmp
+70,d9d3dec8b20e08cdf86b464988229822.png,What number of small cyan shiny objects are left of the big matte cube that is to the left of the rubber block right of the large gray rubber thing?,3,tmp
+71,afe9cce5c2b484bb07fcf6de58085c48.png,How many metallic objects are behind the gray cylinder?,gray,tmp
+72,083e3f6efe66e3276bdcf3a70dd0d48b.png,Are there any other things that have the same shape as the big rubber object?,no,tmp
+73,dc9581793109342f6cfcf3baafd7c717.png,Is there a tiny object of the same color as the small cube?,brown,tmp
+74,c1af098ad34aeb16b8ac74fe26d2584b.png,How many cyan objects are either rubber cylinders or blocks?,gray,tmp
+75,713dd504d21ea0d5e5bb31848eb1c20f.png,Is there any other thing that is the same size as the green rubber thing?,no,tmp
+76,e6879d2cb9bb7bc0aa0574bf17964d6e.png,How many blocks are both to the right of the big blue block and behind the blue rubber object?,3,tmp
+77,8f7d69743e7be937bf0692d969dbd0b9.png,Is the metal sphere the same size as the gray matte thing?,no,tmp
+78,6e66fc9ced70ff3483d78bb602e0f523.png,There is a small blue cylinder that is behind the small brown thing; what is it made of?,cyan,tmp
+79,740ef15c938b31ae6406b4af9775a7f7.png,What is the material of the small blue object?,cyan,tmp
+80,208a20319b6126264e1cb3ef54fd1baa.png,How many other objects are the same material as the small gray block?,gray,tmp
+81,71a043ba9f21199e518e8598455c4281.png,What number of gray things are the same material as the tiny cube?,3,tmp
+82,12232f37dc8944b80cb26b811d6d3c40.png,What shape is the small object that is the same color as the matte ball?,cylinder,tmp
+83,a6a9dbfa0ad515c7809df706fab3eac6.png,There is a rubber cube that is the same size as the yellow rubber cylinder; what color is it?,2,tmp
+84,d481926a630933b48e53dc64f1adb7a8.png,There is a red thing that is the same shape as the tiny cyan metal thing; what size is it?,9,tmp
+85,e177ca9dab03498a0114c9f53c0bc71c.png,Is there a small gray cylinder made of the same material as the large cyan ball?,no,tmp
+86,3be258db5e6387e02201cce69c2790a9.png,What is the size of the metallic cylinder?,9,tmp
+87,c8caa903bed3373cde1f0eb7b901a66a.png,Is the number of gray rubber cylinders that are in front of the blue rubber cube the same as the number of large cubes to the left of the purple cylinder?,no,tmp
+88,92449e825656ccd68ec51cd104275f42.png,What is the material of the big block that is the same color as the tiny matte sphere?,6,tmp
+89,473c5e210474ca6ac464114a0693c9c8.png,Is there any other thing that is the same size as the yellow metallic block?,no,tmp
+90,a988bd48242d5349c8defbcd7192e2ff.png,What size is the red metallic thing that is the same shape as the tiny cyan rubber thing?,9,tmp
+91,185a2f270641640922cad4b958092398.png,Are the brown cube and the purple ball made of the same material?,no,tmp
+92,54b314bca11a1c8bb1f813019e99ce78.png,What number of things are either blue objects or big purple spheres?,gray,tmp
+93,3583efc25584053ad692039ad3fcc899.png,There is another thing that is the same color as the large rubber object; what is its material?,6,tmp
+94,3e8564ac04ee969d7cdac7dced20057a.png,What is the shape of the small matte thing that is the same color as the small sphere?,large,tmp
+95,fa00063e1d0e2ebf64f5bf7162b7b30a.png,Does the purple thing have the same material as the small ball behind the purple matte thing?,no,tmp
+96,589d46d867a58c92dedeb928848dcd43.png,Are there any blue rubber things of the same size as the gray matte cylinder?,no,tmp
+97,8449a63d0f6b718fb6771da5fd0fccf1.png,The matte thing that is the same color as the large shiny thing is what shape?,large,tmp
+98,74bf155e6ae8a8dcc50f7f8ef6357b52.png,There is a thing that is left of the tiny red metal thing; is it the same color as the big object?,no,tmp
+99,3ec8261db36cd53d7c566d21c473a9a2.png,Are there more big metallic cubes right of the tiny rubber cylinder than large purple shiny blocks in front of the large gray thing?,no,tmp
+100,ad6794f6e21e1d5348876017b2fb469d.png,There is another shiny object that is the same shape as the brown metal thing; what is its color?,2,tmp
+101,a81204550b243280e5728eb2420aa006.png,How big is the shiny object that is behind the large shiny cylinder and in front of the green shiny block?,9,tmp
+102,215a67d4b078d749894ff57c78866029.png,How many blue cubes are the same material as the cyan block?,3,tmp
+103,936aae1a17625404d0a193f572e9aa28.png,Is the color of the big rubber cylinder the same as the large matte sphere?,brown,tmp
+104,afc340b71fa425e6e300909d45e019ed.png,The metallic thing that is the same color as the big matte sphere is what shape?,large,tmp
+105,32ba3f8a688ca4eda232ea269a061771.png,There is a thing in front of the shiny block that is in front of the matte object that is on the left side of the tiny matte cylinder; what is it made of?,cyan,tmp
+106,8ec3e3f4e041b4f83698161591d353f7.png,There is a large brown thing to the left of the metal thing that is to the left of the shiny cylinder behind the green metal sphere; what is it made of?,cyan,tmp
+107,891587df8126e89cf778cf664b78d6d6.png,Do the tiny blue ball and the block that is to the right of the large yellow cube have the same material?,brown,tmp
+108,eaf914c2e47ac2eaef705368fb4b95cc.png,Is there anything else that is the same size as the red object?,no,tmp
+109,3bb7b57a70f7d46f4be042e4778147cd.png,There is a green metallic thing that is the same shape as the small green matte object; what size is it?,9,tmp
+110,6c1861549ee97ebdb0e4de765e485dbd.png,What is the shape of the large green metallic object?,large,tmp
+111,27cc5d19504283d1a0eb57d67fbe2d6b.png,There is a red thing that is in front of the yellow thing behind the small yellow shiny thing; how many small blocks are behind it?,3,tmp
+112,8b59865aafb0c28955d2c2df630dd363.png,Do the cyan metal ball and the yellow object have the same size?,no,tmp
+113,39a640f6e71ad9d4ceec721c2983cbdb.png,Are there any other tiny shiny things that have the same shape as the small green thing?,no,tmp
+114,7e6979ca3cd84009c68845c7eace3303.png,Is the size of the block that is right of the gray cube the same as the metal cube behind the rubber thing?,no,tmp
+115,608bd20d03c7336726751ffdf74c4a27.png,Does the large yellow metallic thing have the same shape as the tiny matte object that is in front of the cylinder?,no,tmp
+116,5f502b809f736573618dd56c519539ca.png,There is a sphere in front of the tiny rubber cube; does it have the same color as the matte block that is left of the tiny rubber block?,brown,tmp
+117,00f502036a7d38171c5ba6b3ec3868d0.png,Are there an equal number of big gray things in front of the big red cube and brown metal blocks?,no,tmp
+118,68e419f4a24de51fd0a72120e131cf38.png,Are there any other things that are the same material as the small cube?,no,tmp
+119,f2b7c995586bb5a0fbde25f1ea88ea9f.png,Do the metal cube and the cylinder to the right of the cube have the same color?,brown,tmp
+120,b6fdb0d31951d15cc30d5b91f10965b2.png,There is a cylinder that is the same size as the red cube; what is its material?,6,tmp
+121,8991194f058df04cb9a2794f6eaedf8f.png,The big object that is both behind the purple metallic ball and on the left side of the yellow rubber object is what color?,2,tmp
+122,49e73f27cf24406a70cc65a7833f1964.png,What material is the yellow cube that is the same size as the cylinder?,cyan,tmp
+123,f413f9dfb0099bb14da6318f5a9c7ce5.png,Is there any other thing that has the same material as the tiny cyan object?,no,tmp
+124,3ef281255ba94726b64d218e2e9b6f24.png,What number of big objects are brown objects or green cylinders?,gray,tmp
+125,a404856f94189fbb921b3c30ffd0f9c7.png,Does the shiny cylinder that is right of the big cylinder have the same color as the tiny rubber cylinder that is on the right side of the tiny green thing?,brown,tmp
+126,bddfa1254b75ab2faa33764afbcc8ea0.png,What number of big matte cylinders are there?,3,tmp
+127,838ed834aa60da836f79650c76a39cd4.png,Is there anything else that has the same size as the shiny ball?,no,tmp
+128,29b168315b9e137120f9a65dd7f9598b.png,How many green things have the same shape as the large cyan object?,gray,tmp
+129,37f7d85584da26edf0fe050d5e25fc2b.png,The tiny object that is on the right side of the object to the left of the tiny object on the right side of the red metal thing is what color?,2,tmp
+130,068adec72ca7c5259f8457b450ed362e.png,Are there any other things that are the same size as the brown matte object?,no,tmp
+131,80a3077825dcbaaae032eabfe0d1ff2b.png,There is a object that is behind the tiny matte cylinder and on the left side of the green ball; what size is it?,9,tmp
+132,7056a5eb22a7b0711a91da280bae2193.png,What is the size of the object that is both right of the big cylinder and in front of the tiny yellow thing?,8,tmp
+133,5e494bddec739e6de90da5e3db934dc5.png,How many rubber objects are either small blue cylinders or cyan cylinders?,gray,tmp
+134,9addde5458fa6f360a8ce27717eb71ec.png,What number of metallic balls are there?,3,tmp
+135,098350f69c524afc38d7be5e55c4dc14.png,What is the size of the green object that is made of the same material as the cyan sphere?,8,tmp
+136,6182e7f1656180189a2f8724aa9b238c.png,Are the big object on the left side of the gray shiny cube and the brown object made of the same material?,no,tmp
+137,9bd1e2a1fd275fb2b0705de71a9a8231.png,The tiny rubber thing that is to the left of the purple thing is what color?,2,tmp
+138,b74c1d8112d78540ea023c52a397d254.png,How many shiny objects are either purple cylinders or small cyan things?,gray,tmp
+139,59efbc2505521220fed9c37536087ec7.png,Are there any other things that have the same shape as the large metallic object?,no,tmp
+140,5116366766e1bc5b5bc78226144bc354.png,Is the number of metallic objects behind the yellow metallic sphere less than the number of tiny rubber cylinders?,brown,tmp
+141,93b887e899986174a9cfc40512baf51a.png,Is the number of cyan rubber things greater than the number of big matte things?,no,tmp
+142,281a5c38928150ffac77c835a10abb0d.png,There is a tiny cylinder; is its color the same as the metallic sphere to the right of the tiny gray metal thing?,no,tmp
+143,12c0fb96245928573b5ae7efcb1d181d.png,Is there any other thing that has the same size as the purple ball?,no,tmp
+144,81f29c65ae6fbf543834d1b1336e5428.png,Is the material of the ball that is on the left side of the green thing the same as the purple thing?,no,tmp
+145,11947f26697bd7c8cb7edc4e99fc8925.png,Is the shape of the shiny object that is in front of the yellow sphere the same as the matte thing that is on the left side of the small cyan matte cube?,no,tmp
+146,693ebdea523a4a46acd433fa6c6bf274.png,There is another large cylinder that is made of the same material as the green cylinder; what is its color?,2,tmp
+147,17c79e9fe197646c17b2805583160bb2.png,The matte thing that is left of the tiny purple sphere and on the right side of the tiny cyan rubber object is what color?,2,tmp
+148,8734e0b0f0139966995d281e8dd73440.png,What number of other things are there of the same material as the small gray cylinder,gray,tmp
+149,28b3aa8bcf98c6509cc12c3417167c3f.png,Are there any rubber balls behind the tiny matte object to the left of the small blue rubber thing?,no,tmp
+150,6ad3b0ca85095685792042d4da5f0470.png,Are there more shiny things that are on the left side of the large yellow block than small red spheres left of the tiny green object?,no,tmp
+151,cde036c0bffd96a30b46130cb4c37a3d.png,Is there any other thing that has the same size as the brown sphere?,no,tmp
+152,41d4556b047f44846af99114aea735a4.png,Are there an equal number of cylinders that are in front of the shiny block and rubber cubes that are on the right side of the big matte cube?,no,tmp
+153,f8c164c633171cd790cd2158b316ce55.png,There is a small sphere to the right of the cube that is to the left of the green rubber ball; is there a tiny block that is to the right of it?,no,tmp
+154,96e1614593aa4acacee8a0df5a03b1ff.png,There is a metal ball that is in front of the red object; what is its size?,9,tmp
+155,b342b8fc784cbb865e85aada12537c11.png,There is a small object that is behind the metal thing right of the blue ball that is in front of the big metallic cube; what is its shape?,large,tmp
+156,ea6cacf829b9e46f7458abc50fa8fad5.png,What number of other objects are there of the same size as the red thing?,gray,tmp
+157,3d5355382adba7f36ef31d6b2fb4b546.png,Is the number of large things that are behind the big gray metallic cylinder less than the number of green things to the right of the large green rubber thing?,no,tmp
+158,2614af04c62e6a9e8af93280f5e17ec8.png,What number of things are either matte balls left of the small metal object or large brown rubber cylinders?,gray,tmp
+159,4a7d37809465b4c76f18a68387595a45.png,What size is the brown cylinder that is made of the same material as the block?,8,tmp
+160,559096b669985c6a38837ba94a018145.png,Is there any other thing that is made of the same material as the tiny green sphere?,no,tmp
+161,4781bf82e9a9c4a3359ab9265069a55b.png,There is a matte cylinder that is in front of the large red object; is it the same size as the cube that is in front of the yellow object?,no,tmp
+162,8a4f55d20e305b052df56a50f53d1463.png,There is a yellow thing that is the same shape as the gray metal object; what size is it?,9,tmp
+163,6c04fadc8baa3137f9fa6d2741403795.png,Is the shiny object the same shape as the cyan object?,no,tmp
+164,df2d72f62f1a906e20028f4446820e7c.png,Do the metal thing in front of the small blue metal thing and the small red thing have the same shape?,brown,tmp
+165,c19eb182cf3b870bd55b4fe0dcb493aa.png,The tiny object to the right of the cylinder has what shape?,large,tmp
+166,020ddcc8c2981a2b28223c8d7b66a2e0.png,What is the material of the small cylinder that is the same color as the tiny metallic cube?,6,tmp
+167,28c04e0b4bf21015346e824a7406e5c3.png,Is there any other thing that is the same shape as the big blue thing?,no,tmp
+168,92c2f5c944987096d40f196731c95fe0.png,Are there fewer tiny rubber things that are to the left of the tiny yellow rubber object than large cyan things?,no,tmp
+169,1e68293cf7e4db0b09ceaaf51d4df047.png,Are there any other things that are made of the same material as the big purple cylinder?,no,tmp
+170,e70ecc760274c9472b79df370ecf320f.png,There is a thing that is the same color as the big cylinder; what is it made of?,cyan,tmp
+171,6fa23ad1e450a2a1125dd3b4097c47fc.png,Are there the same number of balls on the left side of the gray rubber object and big things?,no,tmp
+172,4d6ef99825c50cabb26d05ab9d239b02.png,Is there any other thing that has the same size as the metallic thing?,no,tmp
+173,69061f919d4de992a957af28bb58af91.png,What number of other large cubes are the same material as the large gray block?,3,tmp
+174,6f370f2904c1327ffefcd0f89df649ea.png,Are there any other things that are made of the same material as the small brown cylinder?,no,tmp
+175,7c816cbfbd9de6ca5c7458927d7007c4.png,How many metal things are the same color as the big cube?,gray,tmp
+176,8a38cf9bc593cf962e110c84a295aa5a.png,There is a shiny ball that is the same size as the brown block; what color is it?,2,tmp
+177,0acf664b18057ff61f3d37da08a91e1c.png,There is a cube that is the same color as the tiny sphere; what is its material?,6,tmp
+178,927e986f7e94804c3bf8c3d6763d6399.png,There is a metal thing that is both to the right of the green object and behind the green cylinder; what is its color?,2,tmp
+179,0922e43afbb880e12a822eb81b07a272.png,Is there anything else that has the same size as the red ball?,no,tmp
+180,a12f61a458938e7c3e0d430803feed4d.png,Does the green rubber thing in front of the brown matte object have the same size as the large cyan cube?,no,tmp
+181,5b9fc528c07a8a7e675cf1bb579fc1c2.png,What shape is the gray matte thing that is the same size as the brown thing?,large,tmp
+182,4ff7e7c9b771e9294f0d6f38d2aa5b80.png,Is there any other thing that is made of the same material as the big brown block?,no,tmp
+183,4a1832be920f4a5b33d166ab64ceb87b.png,What number of cubes are the same color as the big shiny sphere?,3,tmp
+184,ac217599154aa7f3ad93981ea4155055.png,Do the big rubber cube and the tiny shiny cylinder in front of the yellow shiny thing have the same color?,brown,tmp
+185,77043953eae4af792b010271c559ea06.png,Are there more green shiny objects that are behind the tiny blue ball than large rubber objects?,no,tmp
+186,fc6580b2f736020fe8dc3144bb3a12d5.png,How many tiny objects are either cyan matte spheres or red rubber cubes?,gray,tmp
+187,226ee0b79769b1efe4ed215650c6f26d.png,There is a big shiny object that is the same color as the sphere; what is its shape?,large,tmp
+188,60bf5f700c87eae1347013e5b94eae19.png,Do the large matte cube behind the brown rubber thing and the metallic object behind the green block have the same color?,brown,tmp
+189,e8e0ba6ebca5bd6f1e21c67c04f5aaf0.png,Is the number of cylinders in front of the purple metallic sphere less than the number of large brown shiny balls?,no,tmp
+190,deb50d68e83c558a5f82b29edfb7bd9b.png,What shape is the large object that is behind the big green thing?,large,tmp
+191,7d8020df73937446a96330121ed902d6.png,What number of other objects are there of the same shape as the red shiny thing?,gray,tmp
+192,e9974854fbf58eae87607b3860261520.png,There is a small red cylinder that is behind the large metal ball; what is its material?,6,tmp
+193,d45ff2e5fc17b38fe487b0892bdd2f2c.png,Is there any other thing that is the same color as the large ball?,no,tmp
+194,da5021a8345015f7a12de24d4967264d.png,Is the number of large brown blocks less than the number of small gray cubes?,no,tmp
+195,691543dab8a4ef4d230813742485b9a6.png,There is another tiny thing that is the same shape as the purple metallic object; what is its material?,6,tmp
+196,4c4e9b0d753d42a6e179fdc9d99a0ff7.png,What is the material of the blue cylinder?,cyan,tmp
+197,23c21e486515fcb2804b49910b33c338.png,How many other things are there of the same material as the tiny purple cylinder?,gray,tmp
+198,d8416497f9c893bed080297b04c5115e.png,There is a object to the right of the yellow sphere; is it the same shape as the large yellow metal thing?,no,tmp
+199,b78ad6c00aa2709f46b79a7eeb509fd2.png,There is a big cylinder right of the rubber ball that is behind the large cylinder behind the big green cylinder; what color is it?,2,tmp
+200,d423b4188ee419fd1591556c0df40980.png,How many small green rubber blocks are behind the object that is in front of the blue rubber object?,3,tmp
+201,09525042e663bf1e59269212a8de9bc1.png,What is the material of the gray thing that is the same size as the shiny block?,cyan,tmp
+202,b29895ee9b89b0657caad1d5f401b434.png,Are there any tiny yellow metallic things that are in front of the blue object in front of the cube that is on the right side of the brown matte ball?,no,tmp
+203,7b78030fa6c5def8e3ec8905e2fe1cc2.png,What shape is the object that is made of the same material as the ball?,cylinder,tmp
+204,e64d6e3c997ea3f15ff96ab0af54ca29.png,Is there anything else that is the same shape as the matte object?,no,tmp
+205,a439a7e337db1d651fa1f9f77a6f6acd.png,Is the number of small matte objects that are behind the large matte ball the same as the number of brown metal spheres?,no,tmp
+206,6b0ec4007cb96ce800531b06993febb0.png,Are there more tiny gray shiny blocks than blue blocks?,no,tmp
+207,647d236eae5003f5d88659cb5259f175.png,Is the tiny metal cylinder the same color as the small rubber thing?,brown,tmp
+208,80608f273f0a4feccc135959deaf689a.png,Is there a small object that has the same shape as the large cyan metal object?,no,tmp
+209,4f6f51e4d4c5553061a1da090a55942e.png,Are there any tiny yellow spheres left of the large blue object?,no,tmp
+210,e172cfba8276666f91e01e7654fa1cd2.png,Are there the same number of large cylinders that are in front of the big gray cylinder and tiny cyan shiny objects in front of the small green thing?,no,tmp
+211,f8b916c146f66d69c27132b374609758.png,Do the purple thing and the brown metal cylinder have the same size?,no,tmp
+212,59f0446fc09548d71988ac2e30c6852e.png,There is a rubber thing that is both in front of the yellow cylinder and left of the big red metallic sphere; what is its color?,2,tmp
+213,d22afafd73d6cb2f146d346059d9103d.png,What number of tiny spheres are behind the red matte sphere?,3,tmp
+214,203d2faf9e5b126d669864e999930113.png,What number of other objects are the same shape as the large brown matte thing?,gray,tmp
+215,2146b502574dd789bd2171225b6652ba.png,What number of cubes are either big red rubber things or small matte things?,3,tmp
+216,6d9d97311224cb1b3b92095d474004a6.png,How many other things are the same size as the red thing?,gray,tmp
+217,f4e7d1008d59011c523f31995a8a0973.png,Is the number of brown rubber objects that are on the left side of the large brown matte ball greater than the number of cyan shiny things?,no,tmp
+218,d3a5383efc3d40690429e60deb76707d.png,The large matte sphere that is both to the right of the big blue rubber ball and behind the small purple ball is what color?,2,tmp
+219,938aec7528bae64eb11bd2138c45d969.png,There is a large yellow ball; what number of blue cylinders are on the right side of it?,3,tmp
+220,18860e1160960d6d8404fc6a06a1e413.png,What material is the tiny gray object that is the same shape as the small red object?,cyan,tmp
+221,18e9f393a047e6346c3f51429cd9fe36.png,Is there any other thing that is the same shape as the large blue object?,no,tmp
+222,a3d1fadf38d3c91c84c72ce8c65f25e0.png,Are there any purple objects made of the same material as the yellow object?,no,tmp
+223,0f81eaeb3a4ef6fa9194040ab4bea5be.png,How many large cylinders are the same color as the tiny metal cylinder?,3,tmp
+224,c20106d0c28887cb5c51843032e0f74d.png,How many objects are small rubber cylinders left of the small cyan thing or green objects on the right side of the gray metallic thing?,gray,tmp
+225,bdf0ddcf288345c5cb3de0a34ec0d1e7.png,Is the color of the large rubber block the same as the tiny matte cylinder?,brown,tmp
+226,f3cb7205c472edafdb657d7b0f56969d.png,Are there any other things that are the same shape as the big red metal object?,no,tmp
+227,5dd0bcd951c6fbc16799f043b2b8d290.png,Are the small green object in front of the green rubber ball and the gray object that is right of the tiny brown ball made of the same material?,no,tmp
+228,00080babf04e862d0333b7aedf1dc93b.png,Is the small rubber block the same color as the tiny shiny ball?,brown,tmp
+229,61c8e5a31782b666b216bebee60681fa.png,How many other things are there of the same material as the purple cylinder?,gray,tmp
+230,c26b551b55efd928f0c25a53c654ce6e.png,What is the shape of the gray shiny object that is the same size as the brown shiny sphere?,large,tmp
+231,f0c427dee54ec033e8d6f7c9ec819ed6.png,What is the color of the cylinder that is the same material as the block?,5,tmp
+232,42c71dcd26856cdad8000a4181af8400.png,How big is the thing that is in front of the tiny purple thing and on the left side of the small purple thing?,9,tmp
+233,7f65fd12f8bb9d8d2b3362ef307bdbe7.png,The tiny thing that is both in front of the tiny blue rubber thing and right of the yellow matte thing is what color?,2,tmp
+234,ea9c5abce59aeec84f4d7da14e8ad439.png,How many other objects are there of the same color as the metallic cylinder?,gray,tmp
+235,beba9300232327b9b6a99ae5a351a75b.png,Are there any other cubes that have the same size as the purple cube?,no,tmp
+236,2645058ca8e1f4c34dd59cba10517eb1.png,Is there anything else that has the same material as the small yellow sphere?,no,tmp
+237,2f429f6cab79ed753c42c85ceed54811.png,What is the size of the other cube that is the same color as the small shiny cube?,9,tmp
+238,e10eb2d9eb470a316f5916c95254e794.png,Does the small sphere that is in front of the tiny blue sphere have the same material as the small yellow cube that is behind the red shiny object?,no,tmp
+239,e37ae42e1f89a562c38cb9e0ad4bd4e6.png,What is the size of the other object that is the same color as the tiny shiny thing?,8,tmp
+240,b92c93704e75df551b5885825d352458.png,Are there any other things that are the same shape as the cyan metal thing?,no,tmp
+241,a2b57e4d4ac44f1bd799ffd581a74917.png,Is the number of tiny brown metallic things less than the number of small purple metallic cubes?,no,tmp
+242,0bf993ecd018eab78434b30ab9aaf411.png,What number of other things are there of the same color as the big cylinder?,gray,tmp
+243,547050c6216ff17d06b2658c0e7de33c.png,There is a object in front of the big cyan matte object; does it have the same color as the metallic cylinder?,no,tmp
+244,9257a8289caa0a98b38f0e60feba2cee.png,How big is the cylinder that is in front of the yellow rubber thing and behind the blue cylinder?,9,tmp
+245,8aa6c83e09f803c34f44cddcc5b5a1d1.png,Do the rubber block and the big rubber cylinder have the same color?,brown,tmp
+246,17b201390757660515f7cdfbdf95c35a.png,Is the number of yellow matte things that are behind the yellow matte thing less than the number of cyan metal cylinders?,no,tmp
+247,95de3dd15b1fdb1e6abad4295e7398aa.png,What number of cyan things are there?,gray,tmp
+248,af26b504a0bfe5dcc171abd1794bbf41.png,Do the ball and the small matte block have the same color?,brown,tmp
+249,10e4f8cac49f4f7c973adbf6cacf616a.png,What color is the thing that is in front of the tiny purple object and to the left of the big purple ball?,yellow,tmp
+250,6224572d396f00524ddc49ff2bf015ce.png,Is the number of big gray rubber blocks greater than the number of purple balls?,no,tmp
+251,44c2066f15d90274f6fca71f53e84f2a.png,There is a small object that is the same color as the big rubber cylinder; what is its shape?,large,tmp
+252,0de0e31a0799ead1d071a92fb8ece23e.png,Is there any other thing that has the same size as the rubber cube?,no,tmp
+253,0e67ed827631127ddeb6a212d6c5ec4d.png,Is there any other thing that has the same size as the green metal sphere?,no,tmp
+254,bb679a8c1488cc8ecad44fcd2fb6d0d7.png,Are there more shiny objects behind the small metallic ball than green objects?,no,tmp
+255,06a19980d9abb61d22841e8b454d8400.png,What number of large objects are blue cylinders or purple matte cylinders?,gray,tmp
+256,d98d48fe624dfd3cad97fbb803233c68.png,The large red matte object that is to the left of the large matte cube to the right of the brown ball is what shape?,large,tmp
+257,b0bbde90ef4d853cf589a0579d2af2d3.png,Is there anything else that is the same material as the big green object?,no,tmp
+258,59118a74f97e1d56171dc90a5000b5d0.png,Are there fewer small red balls that are left of the green matte cylinder than metal cylinders?,no,tmp
+259,26d215c02351c8ebd7a39a121189f5d8.png,What shape is the big object that is the same color as the tiny matte cube?,large,tmp
+260,8ab2b0cc5d61de0e9fc3dda4122dd902.png,There is another yellow thing that is the same shape as the tiny yellow object; what material is it?,6,tmp
+261,00dd1f16208bf590d3bffe0561b27048.png,What number of large cylinders are there?,3,tmp
+262,2ffa66a3ab54d5c5fcde39d8e7dbc3a7.png,Is the shape of the big rubber thing that is right of the large yellow thing the same as the shiny thing to the right of the big red metal object?,no,tmp
+263,b2fe1603f2114e470dcdefcbccb79bf9.png,Is there any other thing that has the same size as the metallic thing?,no,tmp
+264,471589a40d8ce67ef327f9d5f04c0672.png,There is another big thing that is the same color as the big matte thing; what material is it?,6,tmp
+265,08bd726765861e903b3e2f745ac290bf.png,How many things are either big things in front of the big cyan metal object or gray blocks?,gray,tmp
+266,d09a7a816c4be1c5b69b4d682685422c.png,Is there a shiny cube in front of the large metal block to the right of the red metal object?,no,tmp
+267,9d18ce78d545ef1fefaefaad34b2363b.png,Is the shape of the small gray object that is in front of the big metal cylinder the same as  the tiny metal thing?,no,tmp
+268,bed5c6e29270b29b8c37cd9475459687.png,Is there any other thing that is the same material as the big ball?,no,tmp
+269,f4feca2e113cbd0add42737200f30cbd.png,Is there a yellow cylinder made of the same material as the large red cylinder?,no,tmp
+270,e79434e65d04c65a2910e82d47f3a2fb.png,The metal cube that is to the left of the large rubber ball that is in front of the cylinder left of the large purple rubber thing is what color?,2,tmp
+271,4711eb750285948321c031c025c490e1.png,There is a shiny object that is the same color as the small matte cube; what is its size?,9,tmp
+272,de4c399b79fcf42e356c7cfec1c6ea6b.png,Is there any other thing that is the same size as the blue thing?,no,tmp
+273,066b3004463cedba515944babe72ce87.png,Are there any other things that are the same shape as the large gray thing?,no,tmp
+274,21a208b6d69b272074948b587b854c81.png,There is a green block left of the big metallic cylinder; how big is it?,9,tmp
+275,d5c03e576b42eaf82caf500b38eaec8a.png,There is a object that is the same color as the tiny sphere; what material is it?,6,tmp
+276,3ffb7ff7d9ad87c8446c64e2ae634672.png,How many other matte objects have the same shape as the yellow object?,3,tmp
+277,84b2ddf4f8ce796cca9b0fd4111f1c29.png,There is a matte ball; is its color the same as the big metallic object in front of the gray matte block?,no,tmp
+278,c8d27230c82d4b06574cc8a57d4adfb0.png,Are there any other things that have the same material as the cyan cylinder?,no,tmp
+279,434bde11a81278af4166468eba2157ae.png,What number of other objects are there of the same color as the big metal cylinder?,gray,tmp
+280,33c3cd50df71f5261fb98c4483934cd0.png,Are there any small objects of the same color as the cube?,no,tmp
+281,f7a4336d2d23a59013cde35fd75201d3.png,Is there any other thing that is the same size as the purple shiny thing?,no,tmp
+282,c954c85935208492ba936bb9099ca397.png,How many other things are there of the same material as the cyan cylinder?,gray,tmp
+283,82dcdc327cd5cf971a1461d2ae8001db.png,There is a object in front of the tiny gray rubber object that is left of the tiny green ball left of the red thing; what is it made of?,cyan,tmp
+284,ccdf65c31d498aeb608b75502cce5060.png,Is there anything else that has the same material as the small cyan thing?,no,tmp
+285,7ea535a22f36e0a8fdba644d94ac5a70.png,There is another large cylinder that is the same color as the large matte cylinder; what is its material?,6,tmp
+286,2933b52138b139dc5c0d674d6d85794e.png,What is the large block that is right of the matte thing that is on the right side of the matte object behind the yellow matte object made of?,cyan,tmp
+287,5a0c1cbdc48e48620abaf071887dabb0.png,How many objects are either big objects that are in front of the tiny gray matte sphere or spheres that are to the left of the gray matte sphere?,gray,tmp
+288,bd6b2891b7b93fdf53312cc811f34bea.png,Are there fewer red spheres than small metallic things?,brown,tmp
+289,e722b5f43e522d0907a1e798b1144437.png,How many other objects are the same shape as the big gray thing?,gray,tmp
+290,e08f8d4df3f9197212f4c4b2419e7190.png,Does the small cube have the same color as the object behind the tiny purple sphere?,brown,tmp
+291,90790e4ae779735eac8eb0021d87eb92.png,Is there anything else that is made of the same material as the big gray thing?,no,tmp
+292,425d5261ba0b146bdda414c91900fb9f.png,The large metallic block has what color?,2,tmp
+293,d235773de8d2bc39f73b2874e5ab9217.png,There is a big thing that is the same color as the shiny cube; what is its shape?,large,tmp
+294,e505712bfe230676de3940ca759dd38a.png,Is there a tiny cyan block made of the same material as the green cube?,no,tmp
+295,afa58ff70deede53a8a4b455205203e9.png,Are there fewer red metal balls behind the tiny brown cube than rubber cylinders left of the green shiny sphere?,no,tmp
+296,84804ab682b0fed6da03522341d8f3e8.png,Do the matte thing to the left of the yellow ball and the big cyan object have the same size?,no,tmp
+297,7b334de92c6d5f971b28372f5b1bf14b.png,What material is the cylinder that is the same color as the big cube?,cyan,tmp
+298,7699ee8a51b8ff8ab5c2ff4a6a5a9ca5.png,What color is the other tiny thing that is the same shape as the red shiny thing?,2,tmp
+299,7706f9666de145021c585ea2cbcf2ad5.png,Is the number of small brown matte things less than the number of gray metallic objects?,no,tmp
+300,5d1c86b10887947e39a09f29dfdd203e.png,What number of tiny rubber cylinders have the same color as the tiny block?,3,tmp
+301,2779032e4cf4b7b97b5c5c3bfa104d00.png,Is there a tiny gray matte ball?,brown,tmp
+302,95b0d04ad029096fdfbbccdfd92c3749.png,There is a cylinder that is behind the cyan cylinder and on the right side of the large blue rubber cylinder; what size is it?,9,tmp
+303,2c0bfd789d999dfc53eed1b008c44e99.png,There is a rubber object that is on the left side of the yellow rubber object that is on the right side of the large shiny sphere; how big is it?,9,tmp
+304,9ea2d0a542d968e0a605e289c85a9517.png,Is the small cyan metallic thing the same shape as the purple object?,no,tmp
+305,e35b6c15270bcfdf31be0a0d5f9d65e8.png,Are there any other things that are made of the same material as the big cylinder?,no,tmp
+306,283ac5dcabc05e736d52f4dcb5d70bb7.png,How many cubes are on the left side of the large yellow cube and behind the big cyan rubber cylinder?,3,tmp
+307,a444d8871b3ca358673f3a374884e173.png,Is there any other thing that has the same size as the purple rubber cube?,no,tmp
+308,8c9b6ad08d4c73c54dee88fdf542f5b8.png,Are there fewer metallic blocks that are to the left of the big red metal sphere than tiny things?,brown,tmp
+309,8c7237be2afdb5f2b59cbec5bb966428.png,There is a rubber object behind the big rubber cylinder; is its size the same as the cylinder on the right side of the purple object?,no,tmp
+310,7a1f530e0b1fdad256b27bcc4db5107b.png,Do the small yellow object that is to the right of the small red cylinder and the small blue thing have the same material?,no,tmp
+311,e7dfd0bfef4123faaabcc32fab71dec8.png,Are there any other things that have the same shape as the big purple rubber object?,no,tmp
+312,cfba463dd7b3059bc8c16819a7343b17.png,There is a object that is in front of the blue cylinder and on the left side of the small gray rubber cube; what shape is it?,large,tmp
+313,58791b133a5c381f7d5118300b333198.png,How many other objects are there of the same size as the purple cube?,gray,tmp
+314,42002cdb9a6bd88f8dfb9fcc75689a8a.png,Is there anything else that has the same material as the purple object?,no,tmp
+315,cf9a0350beb495d08f965af0e76b8efb.png,Are there any yellow balls that have the same size as the green block?,no,tmp
+316,d5e7abd420bae22fd72c37886c91a504.png,The large red rubber thing behind the brown object to the right of the brown thing on the left side of the tiny metallic object is what shape?,large,tmp
+317,05e1f961d0497a8b901a129f1d385833.png,There is a big object that is the same shape as the small purple thing; what is its color?,2,tmp
+318,4276265e332aff4d08ee9e6c9bc767cf.png,There is a blue metal thing that is the same shape as the big blue matte thing; what is its size?,9,tmp
+319,f2b2a4c905765b2de3ff5140e7a88d13.png,There is a large metal object to the right of the small blue rubber thing; how many big blue metallic objects are to the left of it?,3,tmp
+320,00dcad474c35721eb57226d186a08000.png,There is a purple metal thing that is behind the large purple metallic object in front of the big gray object; what is its shape?,large,tmp
+321,554cca0fd1dc94673776ff1205793491.png,How many things are to the right of the metal cylinder and in front of the small brown cylinder?,gray,tmp
+322,4a665a0bf9006aa20153c5551dbe717f.png,Are the cyan object to the right of the small cyan block and the red thing made of the same material?,no,tmp
+323,272d37d1a0310dd89304f9bd9e36ef32.png,There is a small object that is the same color as the large rubber cylinder; what is its material?,6,tmp
+324,7bee58d6fb3462e46f896f79958443ee.png,Is there anything else that is the same size as the green metallic cylinder?,no,tmp
+325,183ec403bc03ea4896b66f56db4ec287.png,Are there any other things that have the same shape as the red thing?,no,tmp
+326,771a5825be13ccbd1efce2be6db2718d.png,How many things are both to the left of the small yellow rubber block and in front of the large metal object?,gray,tmp
+327,a446a8e4032e6a2f39304a0e14227bd4.png,How many things are either rubber objects or red objects to the right of the large red thing?,gray,tmp
+328,b068efce9721f36ca67f827695d88e6e.png,Are there any blue metal spheres behind the green block?,no,tmp
+329,9d361feae758d439f2d3b623a1eeaa71.png,What size is the blue thing?,8,tmp
+330,4e77c1967564579507345fdef42a12fe.png,What is the color of the small sphere that is the same material as the big gray thing?,2,tmp
+331,9a53ea086cd44afabfb5f521d95015ae.png,Are there more green objects behind the brown block than metallic blocks on the left side of the small purple cylinder?,no,tmp
+332,a2dff192f8c0ac9bc29dc53d54a03ab5.png,Is there any other thing that is the same color as the matte cylinder?,no,tmp
+333,0944a57fad2db4545d992db334362e9b.png,Are there any other things that have the same shape as the large cyan shiny thing?,no,tmp
+334,5ce668f9d1f8a74484d2f1a3d1761eb6.png,What number of things are either green metal spheres or big brown spheres behind the matte ball?,gray,tmp
+335,e9550fc06604f96b54eef272c636feaf.png,The object that is both left of the blue sphere and in front of the large gray metallic ball has what shape?,cylinder,tmp
+336,6d5596e293853ec5895fc4a855162b78.png,Is there anything else that has the same size as the brown metal sphere?,no,tmp
+337,296f2daf6be801c8bc65033df4e0991d.png,How big is the metal sphere that is in front of the cylinder that is to the right of the red ball?,9,tmp
+338,a103c185d548ddeb3622ab1754290ed0.png,What is the size of the ball in front of the big blue object?,9,tmp
+339,448baf6a1a47e66b50842959a9e044ae.png,Does the object that is left of the large yellow ball have the same shape as the tiny green rubber object that is right of the large cyan thing?,no,tmp
+340,f9383c4aa0a599746075484f30431164.png,There is a ball on the right side of the big ball behind the shiny ball right of the large purple object; how big is it?,9,tmp
+341,2ef2131012be76ba5a54835bb8f0d1c1.png,Are there any other things that are the same material as the large red sphere?,no,tmp
+342,513ea3132268bfd8d71386651478ebe5.png,There is a shiny thing that is the same color as the rubber sphere; what size is it?,9,tmp
+343,7626122b795ad00aed8184f1138cba91.png,There is a thing that is in front of the small cyan matte sphere and behind the large purple shiny sphere; what is it made of?,cyan,tmp
+344,621840f1dfb6ae9c0f9b22d4594f7412.png,There is a cube that is the same color as the large matte cylinder; what size is it?,9,tmp
+345,dbe54f76cfdfae6ed6adf58fe3e7d496.png,Is the shape of the small object that is behind the cyan cylinder the same as the big shiny object to the right of the blue metal object?,no,tmp
+346,e19c41731f40bc5b22d1417bd4e5021f.png,Are there any other things that have the same size as the purple metal thing?,no,tmp
+347,90930a9566c3b59a742902ebefad2886.png,What is the shape of the big thing that is the same material as the brown sphere?,large,tmp
+348,59ec045f43785aa1e50cc6a317e9a721.png,Do the large purple thing and the big red thing to the right of the big red rubber sphere have the same shape?,brown,tmp
+349,da2b8d5ec499ab2e3fa4ac22906c4721.png,There is a yellow rubber cylinder; is its size the same as the matte cylinder to the left of the tiny metal sphere?,no,tmp
+350,46e14ac521ec84a7bc1fd2bd33364391.png,How many other objects have the same shape as the big cyan matte object?,gray,tmp
+351,86be66411a98bf69fae5f81033ed88cf.png,Is there any other thing that is the same size as the purple thing?,no,tmp
+352,0c5b319ec09c52d00503f020ee2e3d66.png,What material is the small green sphere?,cyan,tmp
+353,e8990687dc640b32014cfd3267dedd90.png,What material is the green thing?,cyan,tmp
+354,7681acb3283680c246f4a767389c50fa.png,What is the material of the other object that is the same shape as the big purple rubber object?,6,tmp
+355,dbf1830ad92e9d55790bc57619efee33.png,Are there any cyan metal cubes that have the same size as the cyan object?,no,tmp
+356,0d61876f83f23fae8a5498b9d7bef730.png,What number of other things are there of the same size as the matte sphere?,gray,tmp
+357,0d7cf958da306d7de9ac9dbd279d4420.png,There is a tiny block that is the same color as the metal cylinder; what is it made of?,cyan,tmp
+358,ca67bf029cf17df120efc1a3f20a9cfa.png,Are there any other things that have the same shape as the brown matte object?,no,tmp
+359,891c1eeddb8423765a31129883a52628.png,What is the size of the cyan thing that is the same shape as the red matte thing?,8,tmp
+360,5a26e53b66d1812fef881304ebdf9c0d.png,What number of other rubber objects have the same shape as the small red rubber object?,3,tmp
+361,06710cd442247e4baddc5c9d4943fc1e.png,Is the small green cylinder made of the same material as the cyan block that is behind the rubber cube?,no,tmp
+362,77e58ce45e6ec39933c75c597eef85d5.png,What material is the cyan thing that is the same shape as the big red metallic thing?,cyan,tmp
+363,6350a56b0122f8be833a20ffbf4958ac.png,Are the cube and the small blue sphere made of the same material?,no,tmp
+364,e422ee4a69dc7d4ff1998ab319d613c8.png,What is the material of the large object that is on the left side of the small brown matte object and behind the small green matte cylinder?,6,tmp
+365,76eafb137c67d59ac069b93cbe29ca09.png,Is there anything else that has the same shape as the large gray rubber thing?,no,tmp
+366,7c21f5d63e4502fd606b9b23d7e579ad.png,Are there an equal number of small blue rubber things to the right of the purple object and purple things that are behind the small metallic cube?,no,tmp
+367,1584d3a0dfa3b726c4494836bf9074b4.png,Is the number of cyan objects that are behind the blue block less than the number of small yellow rubber blocks?,no,tmp
+368,f54125937127768092397aabd0449135.png,There is a tiny red thing in front of the green matte thing; is its shape the same as the small green metallic object?,no,tmp
+369,523adc5604ee6d9dfa7d6aee6e8c58f4.png,Is the size of the blue metal cylinder the same as the gray metallic ball?,no,tmp
+370,041cc77cee340a0b866f3abf979159c2.png,Is the shape of the tiny blue thing the same as the big cyan object?,no,tmp
+371,031b27fb90193d91787758cc161978c6.png,How many other objects are there of the same color as the small block?,gray,tmp
+372,9179026678e455d1b9222c2b6b9ab0d0.png,How many gray rubber spheres are there?,3,tmp
+373,3c02bc8fac21f56ac11760cc5baeb263.png,How many tiny things are green rubber objects or matte blocks?,gray,tmp
+374,3fd8cf2a569727b522cefcfd7f918a85.png,Is there another red shiny object of the same shape as the big red metallic thing?,no,tmp
+375,033f5a8ddcbb490d08f9849834ece515.png,What material is the tiny cube that is the same color as the small ball?,cyan,tmp
+376,947c7072b3615d1d1b5a1683c16d74da.png,Does the tiny rubber thing have the same color as the tiny ball?,brown,tmp
+377,e8bdbe4c93bd0c990b564a12b98580f8.png,There is a blue object that is the same shape as the yellow object; what size is it?,9,tmp
+378,dadbb05fc02f2d5618cf53471c67ccfe.png,Is the cube the same color as the small matte cylinder?,brown,tmp
+379,207df0f64b3e873be1fc268bfcd856d4.png,Is the size of the cylinder in front of the rubber cylinder the same as the matte cylinder?,no,tmp
+380,87bfdd44b72d223bf385db2866ef7c4f.png,There is a large yellow thing that is made of the same material as the green sphere; what shape is it?,cylinder,tmp
+381,91a7753e2088cbaaa6a481eb176c76ae.png,There is a metallic object that is both on the right side of the large metallic cylinder and to the left of the tiny brown shiny cylinder; what shape is it?,cylinder,tmp
+382,ccfb9c4c1ba4d1e080eaf4c1c925a9cf.png,What is the size of the gray cylinder that is made of the same material as the small blue cylinder?,9,tmp
+383,43ea322fbb034d3ca1a7a6989eeb8842.png,What is the shape of the yellow object?,large,tmp
+384,3b62fcef8909bc0205a9cd69be57af90.png,Are there any other things that have the same color as the large ball?,no,tmp
+385,fdef6377f0bcfbc50632de228ee3e85b.png,Are there any large purple things that have the same shape as the brown object?,no,tmp
+386,c8007800d27cf69abd7d9db27d0b4ca9.png,The object that is the same color as the large cube is what shape?,cylinder,tmp
+387,93f4ca1b0e2e9243fe892b229382c399.png,What is the material of the tiny ball that is the same color as the small rubber block?,6,tmp
+388,a80134748600963ef19e84f5ce1e9148.png,Is there anything else that is made of the same material as the gray cube?,no,tmp
+389,58c5112e10017b70419eed703d8ebf17.png,What size is the block on the right side of the large purple metal ball?,9,tmp
+390,d41959314aaef5cea2cb04077101c362.png,What number of gray metallic cylinders are behind the big red shiny sphere?,3,tmp
+391,04ac84e4b18d1973a378df91dad52ab9.png,Is there any other thing that has the same material as the yellow object?,no,tmp
+392,12e734bf3f685fa28513c01def385d71.png,There is a metal thing behind the large green cube; how many large green cubes are behind it?,3,tmp
+393,3ff18612d7e99ce6bc080dfe6a67b341.png,What is the material of the object in front of the large cyan rubber ball on the left side of the thing in front of the cyan rubber thing?,6,tmp
+394,2a61b3064dda92d38f3089ce029bb8d9.png,Are there any other things that are made of the same material as the big cube?,no,tmp
+395,3bee816b95c59561e5c4a3b51c2d7c6f.png,What is the shape of the large shiny object that is behind the brown metallic object behind the big matte cube that is in front of the brown metal cylinder?,large,tmp
+396,4dc657c019b5e566744ccc5916bd2aa2.png,The tiny gray thing that is made of the same material as the tiny brown thing is what shape?,cylinder,tmp
+397,cb6807a92ea32d863a9d100ee0518c7e.png,Do the tiny cylinder and the large block have the same color?,brown,tmp
+398,98031edc25a1e1073c938dbdc7788284.png,Is the number of small matte things behind the matte block greater than the number of red things that are right of the purple metallic object?,no,tmp
+399,c0a381f41b21a2b8fde61d393e0381e7.png,The cube that is the same material as the green cylinder is what color?,2,tmp
+400,391c8d4bf1f745739bc7428a2302656c.png,What is the color of the large metal thing that is left of the big purple object?,7,tmp
+401,61aa5b451a572bb75ec46769c8321947.png,Are there more small brown matte cylinders behind the tiny green ball than things to the left of the brown rubber cylinder?,no,tmp
+402,97561a4fe3361c4cb31f5879e3b87d69.png,What number of other things are the same color as the small metal ball?,gray,tmp
+403,29d35e12cbb055b036d6c18562c3c0d0.png,How many tiny objects are either yellow objects or purple shiny cubes?,gray,tmp
+404,ede1073303fb5c68b768254988e85f58.png,The purple object that is made of the same material as the big green thing is what size?,9,tmp
+405,4b2c23e8833ac6692092bc4d00ea5ab5.png,What is the material of the sphere that is the same size as the green cylinder?,6,tmp
+406,a312497afc0edef2eee32def5b5d05e0.png,Are there any other things that are the same size as the matte object?,no,tmp
+407,d5932b129eb2cf98f19ef4f2a5237532.png,What number of things are tiny cylinders or shiny balls?,gray,tmp
+408,33ac7408d39c74b1910a9eaeb2807d4f.png,Are there an equal number of green cubes that are behind the big gray rubber thing and cyan blocks?,no,tmp
+409,556c27aafe5f5187a35bf91b3e576ec5.png,How big is the shiny object that is behind the cylinder that is behind the small metal object that is behind the cyan metal cube?,9,tmp
+410,27a7491f8e02406d7524efcb74c1d3b3.png,Does the rubber cylinder behind the green matte cylinder have the same color as the shiny cylinder that is behind the large purple metallic thing?,brown,tmp
+411,fa4c74166f649f345af114ff67342652.png,Are there any tiny purple matte objects that are to the left of the metal cylinder on the right side of the small matte block that is behind the large blue object?,no,tmp
+412,2d44fcfcf37ef06871012a012b4cacad.png,Is the shape of the tiny gray object that is left of the brown metal sphere the same as  the large yellow rubber object?,no,tmp
+413,82c833394d5f3737c047cbecdccd8247.png,The cylinder that is in front of the large red shiny cylinder is what color?,2,tmp
+414,b8dafe0428f5cc526958dcd82f0a0895.png,What number of things are rubber things behind the tiny red metallic object or large things?,gray,tmp
+415,a7e53a57cbd5e816ba4f483a5496e6e6.png,There is a small rubber thing that is the same color as the metallic cylinder; what is its shape?,cylinder,tmp
+416,53a9c2a403d154255bf5c715de747a0b.png,What is the thing that is both on the right side of the small gray rubber thing and in front of the small blue matte cylinder made of?,cyan,tmp
+417,0b946e7c961af64e58678b11771d22b4.png,There is a cylinder that is to the right of the small brown matte thing; what is it made of?,cyan,tmp
+418,8080408bdf2457839ea47febaabc6bd2.png,How big is the gray metal sphere?,9,tmp
+419,42ef7e606033d2dbfe2ca3bbe01f8fd6.png,There is a brown cube; are there any small shiny objects right of it?,no,tmp
+420,fd22282ebbcfcf1658555bf371241613.png,How many things are either small cyan metal blocks that are behind the blue rubber cylinder or cylinders in front of the small blue matte cylinder?,gray,tmp
+421,bbeee7befa43f68351b0111707c9f680.png,The tiny cube in front of the tiny rubber thing that is on the right side of the large object is made of what material?,cyan,tmp
+422,1d7eb087d65fbde1ad7460c3ece2fe6f.png,The small brown thing that is the same material as the big cylinder is what shape?,large,tmp
+423,c2381f19d7a6d32a8f0f9307655374a9.png,Does the tiny yellow matte thing have the same shape as the gray object that is on the right side of the tiny yellow object?,no,tmp
+424,dc2537e78d76c4614b1e96bcdb8c33ed.png,What material is the large gray object behind the tiny green matte cylinder?,cyan,tmp
+425,809f04845a606d8415c911e5a9060dc3.png,The metallic cube that is the same color as the large matte sphere is what size?,9,tmp
+426,6495b2eb7bc6212db5faf4571afe18ab.png,Is the number of tiny gray matte cubes to the left of the purple rubber sphere greater than the number of gray metallic spheres?,no,tmp
+427,9b2053d1ac05ef4d8f8def7f9cc10ec2.png,What shape is the large purple object that is made of the same material as the big blue cylinder?,cylinder,tmp
+428,8b65d9c89c142c90687ade245daaa29f.png,There is a purple matte object; is its shape the same as the object that is in front of the large purple matte ball?,no,tmp
+429,7d0cba2dc10e11020537f39559ae574e.png,There is a blue thing that is made of the same material as the cyan object; what shape is it?,cylinder,tmp
+430,1ecdcc2c6d106c47187ad07df9408e34.png,How many small rubber cylinders are on the right side of the purple matte thing and behind the small cyan rubber cylinder?,3,tmp
+431,78a394bd701474bbd8e3df922e854ccc.png,How many other objects are there of the same color as the big metal thing?,gray,tmp
+432,b24df9bbccfdd26865a1ce7dc865c952.png,There is a shiny cylinder to the left of the big green object; how big is it?,9,tmp
+433,28abf46607e36d5fc63af160d66c040f.png,What size is the yellow matte thing that is on the right side of the yellow ball behind the yellow rubber ball on the right side of the big yellow ball?,8,tmp
+434,b12de6128e558ae48c8316df3728b935.png,Is the number of yellow metal blocks in front of the yellow shiny block greater than the number of big purple metallic things?,no,tmp
+435,749f9ecd048640bcf1ef899a6cbb2491.png,Are there more big cyan shiny balls on the left side of the big red sphere than cyan metal objects?,no,tmp
+436,e9a25e03980754eeb559bd6769004213.png,What number of things are matte cubes or purple objects that are in front of the tiny purple matte cube?,gray,tmp
+437,013c68a5013969c01076feaac966b4bb.png,What number of other objects are there of the same color as the shiny cylinder?,gray,tmp
+438,bcb894413da19f963dce6d992c2d857f.png,How many green things are either large things or small objects?,gray,tmp
+439,50dd90a45349e4e5fedb48c235f3a090.png,What size is the cylinder that is the same color as the large metallic thing?,9,tmp
+440,0190befed4815db3e31e8c08dede6df4.png,Is there any other thing of the same color as the large metallic sphere?,no,tmp
+441,a23f9922adeb229c662a0c999547dc1c.png,Is the ball the same color as the cube?,brown,tmp
+442,32772fef5d5897ed38ff4cfff4c3bc3f.png,The green thing that is the same material as the brown cube is what size?,9,tmp
+443,8807681cc61df01534a21f1eafbffb55.png,The big gray rubber thing is what shape?,cylinder,tmp
+444,5daf48bb68fc2196b2d606794e499a99.png,How many things are either small things in front of the tiny cube or big rubber cubes?,gray,tmp
+445,2fc4b66f1f0206bc8276a395b4760ec4.png,How many small things are cyan cylinders or shiny cylinders?,gray,tmp
+446,131147d6d9da68ea867b81889514a31f.png,How many metal objects are tiny blue cylinders or big yellow spheres?,gray,tmp
+447,094a853e22ffb6dcbab23430a63d37ff.png,How many big blocks are to the left of the big purple object?,3,tmp
+448,696092c949590f86073b56a5b29b01b7.png,Is the metallic thing the same color as the big rubber block?,brown,tmp
+449,22a45fa74c75d813e6065f6d48138776.png,Is the color of the shiny sphere the same as the big ball behind the purple metal block?,no,tmp
+450,1f6eb9dd9250af39abaee9f9fffbcee3.png,What is the size of the rubber block on the right side of the large cube that is in front of the small shiny thing to the left of the tiny gray object?,9,tmp
+451,82d43e7b5f572eab1c6f9721bc60af63.png,What number of other things are there of the same color as the big metal object?,gray,tmp
+452,f4a24971a89c6eec519920081123f1d2.png,There is another object that is the same color as the matte object; what is its material?,6,tmp
+453,72c7bdc780bc0c523455ecc9bfa1a2bb.png,What shape is the tiny thing that is the same color as the big metallic cylinder?,cube,tmp
+454,7dc6233e70392079afce686f118d6b19.png,How many things are big objects that are behind the purple object or brown objects?,gray,tmp
+455,8ab9be738b0fc5bad8e12897201cc0b6.png,Is there anything else that has the same color as the big ball?,no,tmp
+456,e742fa0cd4a6cc0b344aa33b036573a0.png,The small block that is the same material as the tiny purple cylinder is what color?,2,tmp
+457,4a2ed8359846ad373a0212f525a30047.png,How many other things are the same material as the large red ball?,gray,tmp
+458,541ff8d98d3040e8af9154d8c6d75826.png,The big metallic cylinder on the left side of the shiny thing behind the big rubber thing behind the green cylinder is what color?,2,tmp
+459,e1d03fdb99381e2362a07de21df88628.png,What number of tiny things have the same color as the metal cylinder?,gray,tmp
+460,f30b2ef6390c4ffcb2b818a0fbed1961.png,There is a thing that is both to the right of the metal object and behind the large rubber thing; what material is it?,6,tmp
+461,6144c0a012fea222c3beab3f5513b53a.png,Are there any small cyan cylinders to the right of the cyan metal thing?,no,tmp
+462,40d9d3e7416e2bff17c2fd3ba1f42e84.png,How many blocks are either yellow things or tiny yellow things?,3,tmp
+463,d030e85c856cd9a42e67db67784c5df4.png,Are there any other things that are made of the same material as the small cyan cylinder?,no,tmp
+464,98ef1cfe7611098071a9b5e8d45654aa.png,What size is the blue thing that is the same shape as the red rubber object?,9,tmp
+465,ff0839a3199bbbdc9eced7db99cec26c.png,What number of other objects are the same shape as the large brown rubber thing?,gray,tmp
+466,ebf3aedfb569afddf4c4d2ca90778100.png,Are there any other things that are the same shape as the gray shiny object?,no,tmp
+467,43da9ceeb3a5831c3b750948315c8400.png,There is a cylinder that is on the left side of the big matte block; what is its material?,6,tmp
+468,9dea2dc40363243c4dbe2bea462565ab.png,What number of blue things are either rubber cylinders or metallic objects?,gray,tmp
+469,837222df89cd6579f18580844a161f9f.png,What is the size of the thing that is the same color as the large metal block?,9,tmp
+470,6118caf819c08e5e60d0c538d5205988.png,There is a brown object that is the same shape as the red metal thing; what is its material?,6,tmp
+471,14e6a0dc503b7eb031b7316bea31c09e.png,There is a rubber cylinder right of the blue thing; does it have the same size as the brown object that is to the left of the large blue thing?,no,tmp
+472,7bd05134d47f00ff758eba63bf7e7256.png,There is a small cube on the right side of the yellow rubber cube; does it have the same color as the big metal cube?,brown,tmp
+473,fc447527d505a669310b809d5cce8d8f.png,Do the shiny sphere and the small rubber block have the same color?,brown,tmp
+474,affb1165121ca81f6880fc8558132c2b.png,What number of cylinders are either rubber objects or large metallic objects?,3,tmp
+475,be7e4164d42a1c61ccc687ff1bd8eebe.png,Is there any other thing that is the same shape as the matte object?,no,tmp
+476,8112b56156f037b562183b18f1edb0f2.png,Does the tiny metallic block have the same color as the big sphere that is behind the red shiny object?,brown,tmp
+477,d28feb994ae6401d74718f16bd115410.png,Are there any other things that have the same size as the brown rubber cylinder?,no,tmp
+478,2bc7c196f9707bfdfda68474897dd7af.png,There is a gray object that is made of the same material as the big purple thing; what is its size?,9,tmp
+479,ade755ebc82e7c58ba64813b1c5de556.png,There is a rubber block that is behind the big matte thing; what number of tiny spheres are on the left side of it?,3,tmp
+480,7acf5c9d055d3ce9edbf121408a71b8a.png,What is the shape of the small object that is the same color as the small rubber cube?,large,tmp
+481,90469d8f581a37116ca6a1cba2dd3f99.png,The cube that is both left of the big brown ball and right of the large gray cylinder is what color?,2,tmp
+482,b8214f97105acbdda14572e08ed3ab00.png,There is a small thing that is in front of the large cube; is it the same shape as the green rubber object?,no,tmp
+483,d2c35fa3d6b2dc224697c7df1e9e824b.png,The brown cylinder that is in front of the brown thing that is behind the big ball is made of what material?,6,tmp
+484,9a2ecc355e41fe2ef28916658be045b3.png,How many cylinders are red metal objects or rubber things?,3,tmp
+485,114b08286bdca548519cf71932b80da4.png,What is the material of the large sphere that is the same color as the big matte cube?,6,tmp
+486,4959e5bcb8f0b2675981e6ac6718f765.png,There is a small rubber object that is the same color as the tiny shiny thing; what shape is it?,cylinder,tmp
+487,2afcf32e6c9074073a5a398211b64d7c.png,Is the number of objects greater than the number of small green metallic cubes?,no,tmp
+488,5785b73975ebe0e2e152fb207524d361.png,What number of other metal cubes have the same color as the small shiny block?,3,tmp
+489,04f450bda6e538e0be374656d5014f9c.png,There is a matte thing that is left of the large matte cylinder and in front of the gray block; what is its shape?,large,tmp
+490,97d37844a22c70a9b6a9f9ac757f2f8f.png,There is a brown thing; is it the same shape as the metal object that is to the right of the large brown rubber object?,no,tmp
+491,d33e9df43c932ba72cc10143cf091fde.png,Does the large rubber object on the right side of the small ball have the same color as the large matte object behind the big yellow matte thing?,brown,tmp
+492,24fe0c44994956a45b9553d5e6c6230e.png,Is there any other thing that is the same size as the gray rubber cube?,no,tmp
+493,6c906abd2c1b88529dc0a7af8810aacb.png,Is the color of the small ball the same as the rubber cube behind the green shiny block?,brown,tmp
+494,de334b75f784458d625dbf306adf95e4.png,Are there more large rubber objects that are on the right side of the large purple ball than green rubber balls that are behind the blue metal thing?,no,tmp
+495,867869454b8dc8481090c4b88fcae3d9.png,Do the small metal object and the small brown object have the same shape?,no,tmp
+496,ebe395d238476796b5c93ee910e9c9ac.png,Is the material of the tiny cylinder that is to the left of the tiny purple matte cylinder the same as the tiny cylinder that is in front of the green thing?,no,tmp
+497,950d2e003664f85b92eb74e5f9881f7f.png,There is a object that is the same color as the metal ball; what is its shape?,cylinder,tmp
+498,f45df59cd62ec95b441072805c63af58.png,The large thing that is behind the purple thing has what shape?,cube,tmp
+499,cfb8e72e97b6cefaceff37d069c61f90.png,What number of tiny brown rubber objects have the same shape as the red metal object?,3,tmp

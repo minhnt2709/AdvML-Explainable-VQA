@@ -1,0 +1,501 @@
+id,answer,explanation
+0,small,There is a small purple shiny sphere which has the identical material as a small cylinder.
+1,yes,There is a large red sphere and there is a big brown rubber cylinder that is to the right of the metallic ball.
+2,1,There is a green block.
+3,no,There are no things which have the identical shape as a small cyan ball.
+4,brown,There is a large brown metallic cylinder which has the identical shape as a big red metallic cylinder.
+5,yes,There are no big brown metallic blocks which are to the right of the cylinder which is behind the purple cylinder that is right of the cyan cube.
+6,cylinder,There is the big green metallic cylinder that has the same material as a yellow cube.
+7,metal,There is a red shiny object.
+8,no,There is a big purple metallic cube which is behind the small block and there is a red rubber cylinder which is left of the small cube.
+9,no,There are no cubes which are in front of the big cyan shiny block and there are no tiny brown things that are left of the rubber cube.
+10,yes,There is a rubber cylinder that has the same material as a large cylinder.
+11,metal,There is a big metal block to the right side of the large green metal block and behind the red matte block.
+12,cylinder,The small brown matte cylinder has the same color as a small metal cylinder.
+13,no,No things have the same size as a green metallic cylinder.
+14,sphere,There is a sphere which is in front of the red shiny cylinder.
+15,no,There are no big brown matte cylinders that are to the right of the large metallic sphere and there is a small green matte ball.
+16,2,There are two spheres that have the same shape as a large purple rubber sphere.
+17,yes,There is a small yellow sphere which is on the left side of the large metal cylinder and there is a large yellow shiny cylinder.
+18,no,The big gray thing behind the small purple ball is a cylinder and the big object in front of the big brown matte sphere is a block.
+19,2,There are two rubber cylinders which are behind the yellow cube.
+20,yes,There is a small gray metal block that is on the left side of the gray metal block and there is a small shiny block.
+21,small,There is a small rubber ball to the right of the big sphere that is in front of the green shiny cylinder.
+22,large,There is a large cyan metallic cylinder that has the same color as a small metallic block.
+23,2,"There are two metal things, which are cubes, that are in front of the tiny cylinder."
+24,small,There is a small blue cylinder which has the identical shape as a blue rubber cylinder.
+25,no,There are no small brown matte cylinders and there are no big cyan rubber cylinders.
+26,brown,There is a big brown matte cube that is behind the gray rubber cube.
+27,rubber,There is the brown matte sphere that has the same color as a small metal sphere.
+28,red,There is a metallic red ball that has the same material as a brown block.
+29,cylinder,The brown shiny cylinder has the same material as a small purple cube.
+30,large,There is a large yellow cube which has the identical color as a small metal ball.
+31,3,There is a green cube and there are three red cubes which are in front of the rubber cylinder.
+32,green,There is a big metal green block behind the blue ball and to the right of the small cyan rubber block.
+33,small,There is the small brown cylinder that is right of the brown cylinder that is left of the ball.
+34,rubber,There is a yellow matte ball which has the same shape as a small metal sphere.
+35,0,There are no things that have the same color as a big ball.
+36,yes,There is a blue cube which has the identical color as a large ball.
+37,no,There is a purple cylinder which is right of the large blue sphere and there is a big yellow cylinder that is in front of the cyan metal cube.
+38,2,There is a shiny sphere which is on the right side of the blue cylinder and there is a shiny cylinder that is on the left side of a small matte cylinder.
+39,3,There is a tiny metal cylinder and there are two tiny spheres.
+40,cube,There is a tiny blue matte cube.
+41,no,There is a small brown matte sphere and there is a big brown cylinder.
+42,no,There are no things that have the same material as a red cube.
+43,large,There is a large yellow cylinder that is behind the brown rubber ball that is in front of the brown rubber ball that is behind the tiny cyan cylinder.
+44,1,There is a small blue shiny ball.
+45,yes,There is a big red rubber sphere that has the same shape as a large gray rubber sphere.
+46,2,There are two shiny spheres.
+47,no,The tiny shiny block is red and the large rubber thing in front of the purple cube is gray.
+48,yes,The large sphere is red and the big rubber cylinder is red.
+49,rubber,There is a little rubber ball which has the identical size as a yellow sphere.
+50,no,No cubes have the same color as a metallic sphere.
+51,small,There is a small red matte ball that has the same color as a tiny shiny cylinder.
+52,3,There are a tiny brown cube and two tiny brown spheres and there are two tiny cyan cylinders and a tiny cyan cube.
+53,yes,There is a large gray block and there is a small gray block.
+54,1,There is a matte ball.
+55,no,There are no things that have the same material as a brown block.
+56,large,There is a large cyan block.
+57,yes,The metallic cylinder is blue and the tiny metallic block is blue.
+58,yes,The gray block and the big yellow block on the left side of the large yellow metal cylinder are the same shape.
+59,rubber,There is a large green rubber cylinder that has the same shape as a cyan cylinder.
+60,yes,yes
+61,1,There is a purple ball that has the same color as a metal cylinder.
+62,large,There is a big sphere which is right of the small purple ball and behind the large red shiny block.
+63,blue,There is the large blue rubber cube which is right of the small gray metal cube.
+64,2,There are two tiny shiny cylinders which are in front of the big matte cylinder. There is a cyan matte cylinder which is behind the small green cylinder.
+65,no,The ball is small and the matte block that is behind the big yellow rubber cube is big.
+66,yes,There are no yellow cylinders which are on the left side of the tiny gray cylinder and there are two green rubber things which are left of the big metal ball.
+67,1,There is a yellow block.
+68,no,There are no things which have the identical material as a yellow block.
+69,yes,There are a red cylinder and red sphere which have the identical color as a rubber sphere.
+70,no,There are no things that have the same material as a big blue cylinder.
+71,yes,There is a big metallic ball that is behind the gray shiny cube and there is a big gray cube.
+72,rubber,The gray ball that has the same size as a red block is rubber.
+73,1,There are no small metal things that are to the left of the large matte sphere and there are no big green things.
+74,no,There is a brown cylinder that is on the left side of the small brown ball and there is a red sphere.
+75,sphere,There is a shiny yellow ball that has the same color as a small matte cylinder.
+76,1,The tiny brown sphere has the same color as a big matte cylinder.
+77,metal,There is a large metal cylinder that is on the right side of the cyan metallic sphere that is right of the big cylinder that is left of the large matte ball.
+78,cube,The yellow matte cube has the same color as a big shiny sphere.
+79,no,There are no things which have the identical shape as a small gray shiny cube.
+80,3,There are two spheres which are on the left side of the large yellow sphere.
+81,sphere,There is a rubber sphere that is left of the tiny blue shiny cylinder and in front of the small yellow cylinder.
+82,small,There is a small purple shiny cylinder.
+83,yes,The small yellow metallic cylinder has the same material as a tiny yellow cube.
+84,cube,There is a large matte cube that is in front of the cylinder and to the right of the yellow cylinder.
+85,2,There are two things which are to the right of the red metal cylinder and in front of the large gray rubber cylinder.
+86,yes,There is a big metallic blue sphere which is behind the matte ball that is in front of the large shiny sphere.
+87,no,There is a large green matte ball which is to the right of the big brown sphere and there is a block which is behind the large cylinder.
+88,no,There are no blue matte objects that are in front of the tiny blue block. 1. Answer: 1
+89,1,There is a matte tiny yellow ball.
+90,large,The gray shiny ball is big.
+91,no,There are no things which have the identical material as a big cylinder.
+92,2,There is a tiny rubber sphere in front of the tiny brown block and there is a large matte block which is left of the yellow sphere.
+93,no,The big thing in front of a gray cube is a block and the tiny gray rubber thing is a cube.
+94,rubber,There is a red rubber cylinder that has the same color as a metal cube.
+95,yes,There is a tiny block and there are no large brown cubes.
+96,3,There are two small metallic cubes and a tiny metallic ball which have the same material as a tiny green cylinder.
+97,cube,There is a tiny red metallic cube that has the same material as a big cylinder.
+98,3,There is a brown rubber cylinder which is behind the big green matte cylinder and there are two big spheres that are on the left side of the purple shiny sphere.
+99,purple,There is a small shiny purple sphere that is behind the small metallic cylinder.
+100,no,There is a large matte cylinder which is to the left of the purple metal cube and there is a tiny gray sphere.
+101,no,There is a purple block and there is a large cyan cylinder.
+102,0,There are no large green cylinders that have the same material as a brown block.
+103,yes,There is a small yellow metallic block that is on the left side of the blue block and there is a tiny green metallic cylinder.
+104,yes,There is a small brown shiny cube that is to the right of the cyan cube and there is a large metal cylinder.
+105,cyan,"There is a cyan rubber sphere, which is to the left of the block that is left of the green metallic cube."
+106,cylinder,The gray rubber cylinder in front of the large matte cylinder right of the tiny metal cylinder that is right of the tiny purple cube is a cylinder.
+107,yes,There is a tiny rubber block that has the same size as a red cylinder.
+108,2,There are two blue objects which have the identical color as a tiny block.
+109,rubber,rubber
+110,no,There are no metallic things that are behind the matte cylinder that is left of the matte cylinder that is right of the large matte ball.
+111,cube,There is a matte block behind the large rubber cube and to the left of the red metallic cube.
+112,no,There are no large cyan matte cylinders.
+113,yes,There is a green shiny cube which is behind the large green metal cylinder and there is a cyan matte cube which is on the left side of the big green rubber sphere.
+114,red,There is a small red shiny cylinder that has the same shape as a cyan cylinder.
+115,no,There are no things which have the identical color as a tiny metallic cylinder.
+116,metal,The red cylinder is shiny.
+117,rubber,There is a rubber block which is to the right of the brown matte sphere that is behind the tiny gray cylinder that is right of the metal cube.
+118,metal,There is a small gray metal cube which has the identical size as a cyan ball.
+119,2,There is a tiny gray rubber ball and there is a cube which is right of the small cylinder.
+120,yes,The brown block is small and the red shiny object is small.
+121,large,There is a big matte ball that is in front of the tiny block and behind the large rubber cube.
+122,cylinder,There is a tiny yellow matte cylinder that has the same color as a metal cylinder.
+123,yes,There is a big purple block that is behind the big cyan rubber block and there is a big purple block in front of the tiny blue cylinder.
+124,2,There are two purple rubber spheres that are in front of the green metal ball.
+125,yes,"There are a small cylinder, cube and sphere that have the same size as a brown sphere."
+126,metal,There is a tiny yellow cylinder that has the same color as a big cylinder.
+127,large,There is a large matte ball.
+128,no,There are no things that have the same material as a cylinder.
+129,brown,There is a small brown block.
+130,metal,There is a shiny metal cube which is on the left side of the green block and right of the shiny ball.
+131,no,The metal ball in front of the red shiny ball is purple and the large cylinder is brown.
+132,1,There is a big green matte block that has the same color as a small green rubber ball.
+133,yes,There are no green matte things that are to the right of the big green matte cylinder and there are two matte things that are on the left side of the big cube.
+134,yes,There is a purple large rubber cylinder which is on the left side of the big ball and there is a purple cube which is left of the tiny brown matte cube.
+135,no,There are no things that have the same size as a gray cylinder.
+136,blue,There is a tiny blue matte sphere which is in front of the small green sphere that is right of the purple metal cylinder.
+137,no,There are no large metallic cylinders and there are no red metallic things.
+138,0,There are no brown metallic things that have the same shape as a big brown metallic ball.
+139,yes,There is a metal cylinder that is left of the rubber cylinder and there is a metal cylinder that is to the right of the brown cylinder.
+140,small,There is a small green cylinder which has the identical shape as a big green cylinder.
+141,yes,There is a large red matte ball and there is a large purple cylinder.
+142,yellow,There is a metal yellow sphere which is on the left side of the tiny rubber sphere that is in front of the small gray metal ball.
+143,0,There are no matte cylinders that have the same color as a big matte cylinder.
+144,no,no
+145,no,There are no things that have the same shape as a large gray matte cylinder.
+146,cyan,There is the tiny cyan matte cylinder that has the same size as a blue metallic cube.
+147,large,There is a large cylinder that is to the left of the cylinder that is in front of the brown metal sphere.
+148,no,There is a tiny red matte block which is on the right side of the yellow matte block and there is a green block that is on the left side of the rubber cylinder.
+149,yellow,There is a yellow rubber cylinder which is left of the metal cylinder and in front of the large rubber cylinder.
+150,yes,The small cylinder is matte and the cyan block is matte.
+151,blue,There is a tiny blue metal cube which is on the right side of the tiny yellow cylinder.
+152,1,There is a blue cylinder which has the identical color as a big sphere.
+153,yes,yes
+154,cylinder,There is a tiny cylinder which is on the right side of the tiny purple cube which is left of the big gray rubber sphere.
+155,no,There are no things that have the same size as a brown shiny cylinder.
+156,no,There are no things that have the identical color as a tiny rubber block.
+157,no,There are no things which have the identical size as a blue rubber sphere.
+158,1,There is a metallic block.
+159,no,There is a tiny green metallic sphere and there is a tiny blue cylinder.
+160,no,There is a large cyan rubber cylinder which is on the left side of the big cyan sphere and there is a blue cylinder that is right of the large blue matte sphere.
+161,no,There is a gray metal cube in front of the large red metallic sphere and there is a red big matte ball that is in front of the large purple matte ball.
+162,1,There is a yellow matte ball.
+163,yes,There is the large matte cube that has the same size as a red sphere.
+164,yes,There is a large purple matte cylinder and there is a large yellow matte cylinder which is in front of the big blue metal cylinder.
+165,no,There are two purple matte blocks in front of the big red shiny ball and there is a green metallic cube.
+166,no,No things have the same size as a gray metallic ball.
+167,0,There are no small blue balls.
+168,small,There is a small matte yellow sphere that has the same color as a large cylinder.
+169,blue,There is a large blue cylinder to the right of the large yellow cylinder that is in front of the big cube that is right of the red shiny cube.
+170,no,There is a blue shiny ball and there are two red shiny cylinders.
+171,metal,The shiny sphere which is on the left side of the shiny cube and in front of the tiny sphere is metallic.
+172,rubber,There is a tiny green rubber block that has the same color as a tiny ball.
+173,yes,There is a yellow cube in front of the big shiny block that is in front of the big cylinder that is behind the small gray ball.
+174,rubber,The big cube has the same shape as a green matte block.
+175,cube,There is a tiny shiny cube which is on the right side of the small ball that is right of the brown shiny sphere.
+176,large,The huge cylinder has the same shape as a green cylinder.
+177,yes,There is a small blue block on the right side of the tiny rubber block and there is a yellow sphere.
+178,gray,There is a gray matte sphere that has the same material as a red block.
+179,no,There are no things that have the same size as a matte sphere.
+180,yes,There is a big blue shiny ball and there is a blue rubber cylinder.
+181,3,There are three big cubes and spheres.
+182,large,There is a large matte cube to the right of the yellow sphere.
+183,sphere,There is a large rubber ball which is behind the gray matte ball and left of the gray rubber ball.
+184,no,There are no things that have the same size as a gray block.
+185,no,There is a large cyan ball which is on the left side of the big cube and there is a small blue metallic sphere which is in front of the blue metallic cylinder.
+186,yes,There is a large cylinder which is behind the rubber sphere and there are no tiny blue matte spheres.
+187,large,There is a big brown sphere which has the identical color as a tiny block.
+188,cube,There is a large yellow matte cube that is left of the big yellow cylinder that is right of the tiny brown metallic block.
+189,rubber,There is a large matte cube which is to the left of the large cube that is in front of the matte cube that is behind the small matte cube.
+190,yes,The matte ball is gray and the big cylinder on the right side of the green rubber cylinder is gray.
+191,yellow,There is a yellow shiny cube which is in front of the yellow cube that is right of the tiny shiny cube that is behind the tiny yellow block.
+192,0,There are no cylinders on the right side of the gray sphere and behind the gray shiny cylinder.
+193,rubber,There is a red rubber block which is behind the small yellow matte cylinder that is left of the large ball that is behind the red matte sphere.
+194,no,There are no things which have the identical color as a big matte sphere.
+195,rubber,There is a red matte cube which has the identical color as a large matte ball.
+196,yes,There are two metallic spheres that have the same material as a brown cube.
+197,yes,The gray metallic block has the same material as a large yellow ball.
+198,metal,There is a gray metal cylinder that has the same color as a tiny rubber ball.
+199,small,small
+200,no,No things have the same material as a large green cube.
+201,no,yes
+202,2,2
+203,sphere,There is a tiny cyan rubber sphere which has the identical color as a large rubber sphere.
+204,large,There is a large yellow sphere that has the same shape as a big green sphere.
+205,yes,There is a large matte sphere that is in front of the gray sphere and there is a large sphere which is to the right of the purple rubber cube.
+206,sphere,There is the blue metallic sphere which has the identical color as a tiny metal cylinder.
+207,sphere,There is a large cylinder which is behind the large sphere that is left of the purple sphere.
+208,0,There are no things that have the same color as a rubber block.
+209,yes,There are two large cubes that have the same size as a blue rubber block.
+210,metal,There is a large green metal sphere.
+211,2,There are a tiny rubber cube that is behind the tiny metal sphere and there is there tiny metal sphere.
+212,yes,There is a large cyan ball that is in front of the blue matte sphere and there is a small gray cylinder.
+213,large,There is a huge brown matte sphere that has the same color as a small rubber sphere.
+214,red,There is a small red rubber sphere which has the identical size as a brown cylinder.
+215,3,There are two tiny cubes and sphere that are right of the yellow cube and there is a yellow metallic cube.
+216,yes,There is a large cube right of the large metal cylinder that is left of the small red rubber sphere.
+217,large,There is a large green metallic cylinder which is in front of the brown cube that is behind the small brown metallic cube.
+218,2,There are two balls that are in front of a tiny yellow metal cylinder and right of a tiny purple matte ball.
+219,small,There is a small matte ball which has the identical material as a small green cylinder.
+220,gray,gray
+221,no,There are no things that have the same size as a purple ball.
+222,blue,There is a large matte blue cylinder that has the identical size as a gray metal ball.
+223,rubber,There is a big sphere that has the same size as a metal block.
+224,yes,There is a tiny cyan shiny cylinder and there is a tiny cyan cube which is in front of the metal cylinder.
+225,0,There are no tiny things.
+226,no,There is a big yellow cube which is right of the big matte sphere and there is a blue matte sphere.
+227,cylinder,There is a green shiny cylinder that has the same color as a small block.
+228,no,There is a tiny block which is right of the blue shiny cube and there is a large metallic cylinder.
+229,no,The thing in front of the blue matte block is small and the matte object left of the tiny red ball is big.
+230,2,There are three tiny cylinders.
+231,yes,There is a large cyan ball and there is a small cyan shiny cylinder.
+232,0,There are no metallic cylinders which are in front of the large cyan cylinder.
+233,2,There are two small blue cubes that have the same color as a big cube.
+234,0,There are no small purple matte things that are in front of the rubber cylinder that is right of the purple cylinder that is behind the large purple cylinder.
+235,2,There are two matte cylinders that are in front of the small shiny sphere and behind the yellow matte block.
+236,cube,The shiny cylinder has the same color as a big ball.
+237,blue,There is a big blue sphere which is behind the small metallic sphere.
+238,yes,There are three cubes that have the same shape as a gray shiny cube.
+239,yes,There is a large rubber cylinder which is on the left side of the small blue sphere and there is a large red block.
+240,yes,There is a tiny purple matte cylinder which is tiny.
+241,cube,There is the small blue cube that has the same size as a purple cylinder.
+242,yes,There is a tiny matte cube that is in front of the big yellow rubber sphere and there are two rubber things that are to the left of the small brown cube.
+243,cyan,There is a small cyan sphere.
+244,no,There is a big brown sphere that is behind the big matte cylinder and there is a yellow sphere which is on the right side of the brown metal ball.
+245,yes,yes
+246,1,There is a yellow block that has the same color as a tiny matte cylinder.
+247,no,There are no things that have the same material as a brown cylinder.
+248,rubber,There is a tiny blue matte sphere that has the same shape as a green shiny ball.
+249,yes,The tiny cylinder right of the small green rubber cylinder is metallic and the green cylinder in front of the small green rubber cylinder is metallic.
+250,metal,There is the big blue metal cylinder that has the same size as a gray cylinder.
+251,no,There are no yellow shiny cubes that have the same material as a large yellow block.
+252,1,There is a small metal sphere that has the same shape as a gray metallic sphere.
+253,large,There is a large cylinder that is behind the small brown metal cube.
+254,no,There are no things that have the same shape as a tiny red sphere.
+255,1,There are two small red cubes that are to the left of a red cube that is right of a metal sphere that is in front of a metal cube and there are two small red blocks.
+256,sphere,There is a sphere which is in front of the large gray matte ball and behind the big block.
+257,1,There is a tiny cylinder.
+258,yes,There is a gray metal block that is on the left side of the large cyan cube and there is a big gray rubber block.
+259,yes,The big ball is green and the metal cylinder is green.
+260,2,There is a tiny cyan sphere and there are two small things that are behind the matte ball.
+261,no,There are no things that have the same material as a large red ball.
+262,no,The object behind the small brown metal ball is gray and the big thing that is to the left of the gray sphere is blue.
+263,no,There are no things which have the identical color as a large metal cylinder.
+264,no,There are no things which have the identical shape as a red shiny block.
+265,yes,There are two shiny balls that have the same material as a large gray cylinder.
+266,yes,There is a metallic sphere.
+267,small,There is a small blue cylinder that is to the left of the tiny blue metal cube and right of the shiny sphere.
+268,rubber,There is a brown rubber cylinder that has the same color as a large block.
+269,cylinder,The gray cylinder has the same color as a metallic ball.
+270,no,There are no things that have the same material as a cyan cube.
+271,1,There is a small yellow matte block and there is a tiny shiny cylinder.
+272,1,There is a big shiny cylinder that is in front of the purple sphere that is behind the green matte cylinder.
+273,0,There are no things that have the same shape as a large brown matte sphere.
+274,small,There is the small blue matte cylinder that has the same material as a small green sphere.
+275,yes,There is a tiny brown metal ball which is behind the green cube.
+276,small,The tiny ball in front of the red cylinder and on the left side of the big gray ball.
+277,metal,There is a purple metallic sphere which is to the right of the brown metal cylinder that is right of the sphere that is in front of the green cube.
+278,no,There are no things which have the identical size as a red block.
+279,metal,There is a shiny cylinder that is in front of the tiny metal cylinder that is right of the small cylinder that is left of the small yellow rubber sphere.
+280,small,There is a tiny blue rubber block which has the identical shape as a large red shiny block.
+281,small,small
+282,yes,There is a red cube that is behind the big cyan shiny cylinder and there is a big red rubber ball.
+283,yellow,There is a small yellow ball that is to the left of the yellow cylinder that is right of the purple rubber cylinder.
+284,no,There are no small purple balls which have the identical material as a tiny cyan cube.
+285,small,There is a large metal block that has the same material as a large cube.
+286,purple,There is a tiny purple metallic block that has the identical size as a red sphere.
+287,no,There are no red blocks which are on the right side of the brown metallic cylinder and there are three metallic cylinders.
+288,no,There are no things which have the identical material as a gray block.
+289,metal,There is a big metal cube which is behind the large cube that is on the right side of the big purple sphere.
+290,1,There is a tiny rubber cube that is behind the small rubber cylinder.
+291,yes,There are two small cylinders which have the identical size as a red cylinder.
+292,1,There is a gray cylinder.
+293,no,No things have the same size as a gray ball.
+294,3,There are a metal cylinder and a metal block which have the identical material as a blue cube.
+295,yes,There are no small matte blocks that are behind the matte cylinder and there is a purple rubber block which is to the left of the cyan rubber cube.
+296,cube,The big blue rubber cube has the same color as a big metallic cylinder.
+297,yes,The tiny sphere behind the large red matte block is yellow and the big cylinder in front of the tiny cyan cube is yellow.
+298,yes,There is a rubber cylinder which has the identical material as a small brown cube.
+299,1,There is a tiny block which has the identical size as a cyan rubber ball.
+300,large,There is a big rubber block which has the identical shape as a gray block.
+301,2,There are a purple metallic sphere and a tiny metallic sphere that are to the right of the big brown matte cylinder and behind the large yellow block.
+302,rubber,There is a red matte ball which has the identical color as a large shiny cylinder.
+303,metal,The cube is shiny.
+304,no,There is a tiny shiny ball and there is a large blue cube.
+305,1,There is the large red metal cube which has the identical shape as a large cyan cube.
+306,no,There is a tiny red metal cube and there is a blue matte cylinder that is in front of the big brown sphere.
+307,2,There are a big shiny brown cylinder and a small shiny cube.
+308,3,"There are a small cube, two small cylinders and a small sphere that have the same size as a purple metallic cylinder."
+309,2,There are two tiny rubber balls behind the brown ball and there are two green balls.
+310,3,There are three cylinders which have the identical shape as a small gray metal cylinder.
+311,yes,There is a big blue metallic cylinder and there is a blue ball that is behind the big red cylinder.
+312,1,There is a metal cube that has the same shape as a cyan shiny cube.
+313,yes,The shiny cylinder behind the gray cylinder is brown and the tiny cube is brown.
+314,large,There is a big red block that has the same color as a small rubber cube.
+315,no,There is a large matte cube which is on the left side of the tiny block and there is a small matte block that is on the right side of the large cyan cube.
+316,yes,The metal ball is red and the matte sphere is red.
+317,rubber,There is a rubber ball which is behind the tiny matte sphere and to the right of the red matte block.
+318,no,The tiny brown cube is matte and the big gray ball to the right of the shiny cylinder is shiny.
+319,2,There are a small yellow cube and cylinder that have the same color as a big cylinder.
+320,no,There is a cube which has the identical shape as a big metal cube.
+321,no,There are no purple things that have the same material as a purple block.
+322,2,There are two shiny spheres which are to the left of the small gray sphere and there are two blue cubes which are to the left of a blue cube.
+323,no,There are no metal things that have the same color as a big shiny cylinder.
+324,small,The small gray metallic block has the same color as a big cylinder.
+325,large,There is a large blue rubber cube which has the identical shape as a brown matte cube.
+326,no,The metal block is green and the large block behind the big cylinder is cyan.
+327,cube,There is a tiny metallic block that is in front of the cylinder that is in front of the large cylinder that is behind the blue cube.
+328,cube,There is the yellow metal block which has the identical color as a small cube.
+329,sphere,There is a big ball that is right of the tiny cube that is behind the cyan metal sphere.
+330,no,There are no big rubber cylinders which have the identical color as a rubber ball.
+331,yes,There is a big yellow matte cylinder in front of the red rubber cylinder and there is a large cylinder that is left of the large cyan rubber cube.
+332,yes,There is a small gray matte ball and there is a small brown matte cylinder that is on the right side of the green metal cylinder.
+333,0,There are no things which have the identical color as a tiny rubber sphere.
+334,2,There are two metallic spheres which are to the left of the small purple cube and to the right of the yellow metallic cylinder and there is a metallic cylinder which is to the left of the small purple cube and to the right of the yellow metallic cylinder.
+335,no,There are no yellow things that are in front of the tiny yellow shiny sphere.
+336,no,There are no things that have the same material as a cyan cylinder.
+337,yes,There is a small cyan cylinder.
+338,0,There are no purple things which have the identical size as a blue cylinder.
+339,small,There is the small green metal cylinder that has the same color as a large matte cube.
+340,metal,There is a blue shiny cylinder that has the same color as a big ball.
+341,sphere,There is a small brown ball that has the same color as a small metallic sphere.
+342,0,There are no small gray cylinders which are on the left side of the big cylinder.
+343,5,There are five rubber cubes and a rubber cylinder that have the same material as a purple ball.
+344,small,There is a small cube which is left of the small cylinder and in front of the big gray shiny cube.
+345,no,There are two metallic spheres that are behind the small shiny block and there are no tiny purple shiny things that are to the right of the small purple cylinder.
+346,yes,There are two tiny spheres.
+347,cylinder,There is a big purple rubber cylinder.
+348,green,There is a green ball that is in front of the small gray sphere.
+349,cube,There is a large green cube that has the same size as a green matte ball.
+350,small,There is a small purple matte block which has the identical color as a big metal ball.
+351,no,There are no things that have the same material as a gray cube.
+352,no,The brown sphere is large and the yellow shiny sphere is small.
+353,1,Two brown spheres have the same color as a big cylinder.
+354,sphere,There is a big green shiny sphere that has the same size as a purple sphere.
+355,gray,There is a big gray metal sphere that is to the right of the big shiny sphere that is left of the big sphere that is in front of the purple metallic sphere.
+356,rubber,There is the small gray rubber cylinder which has the identical color as a tiny matte block.
+357,small,There is a small cube which is behind the yellow matte block.
+358,large,There is a big block that has the same color as a rubber cylinder.
+359,no,There are no things that have the same shape as a yellow metal block.
+360,brown,There is a large shiny cylinder that is left of the blue cylinder that is behind the metallic sphere.
+361,small,There is a small cylinder that is behind the small red matte ball.
+362,rubber,There is a brown matte cube that has the same color as a big cube.
+363,small,There is a tiny brown cylinder which has the identical color as a tiny metallic block.
+364,sphere,There is the big yellow sphere that has the same color as a matte cylinder.
+365,blue,The big metal cube is blue.
+366,yes,There is a big blue rubber cube and there is a tiny blue matte cube.
+367,yes,There is a yellow block which is in front of the blue cylinder and there are no cyan metal cubes which are behind the large purple metallic sphere.
+368,sphere,There is a large gray sphere that is right of the gray shiny cube.
+369,sphere,There is a tiny purple sphere which is right of the shiny cube that is right of the tiny gray sphere.
+370,no,No things have the same shape as a gray metallic cube.
+371,no,There is the large metal cylinder that is in front of the blue cube and there is a big blue cube.
+372,large,The big shiny cylinder has the same material as a cyan cylinder.
+373,no,There is a gray metal block which is behind the small gray block that is in front of the cyan cube.
+374,1,The tiny block in front of the gray metallic cube is a tiny object and there are matte sphere that are in front of the cyan sphere.
+375,1,There is a large metal cylinder that has the same size as a brown matte block.
+376,3,There are three cylinders that have the same shape as a brown metallic cylinder.
+377,no,There is a purple rubber block that is in front of the large yellow metal sphere and there is a brown sphere which is on the left side of the cyan block.
+378,small,There is a small sphere that is to the right of the yellow rubber cube and in front of the big shiny ball.
+379,0,There are no metallic balls which are to the right of the shiny cube that is in front of the small gray cylinder that is right of the small red cube.
+380,2,There is a cylinder that is behind the metallic ball and there is a purple shiny cylinder that is in front of the purple shiny cylinder.
+381,large,There is a big ball that is in front of the big block that is left of the large rubber cylinder that is right of the large cyan sphere.
+382,no,There are no things that have the same size as a brown cube.
+383,1,There is a large sphere that is right of the small gray cube that is right of the cylinder that is behind the gray metal block.
+384,large,There is a big pink rubber cylinder which has the identical color as a metal cylinder.
+385,0,There is a tiny matte cylinder in front of the matte cylinder that is right of the cyan shiny sphere that is behind the green rubber sphere.
+386,yes,The large brown cylinder is matte and the cyan block is matte.
+387,brown,The brown matte cylinder in front of the cyan sphere that is behind the brown rubber cylinder that is left of the brown block.
+388,large,There is a large cylinder which is behind the gray cylinder that is left of the tiny ball that is right of the tiny green metal sphere.
+389,cylinder,There is a cylinder that is in front of the small shiny cylinder and to the left of the big cylinder.
+390,sphere,There is a cyan metal ball that is to the left of the cyan cube.
+391,no,There are no green metal cylinders which are in front of the yellow matte cylinder and there are no red blocks.
+392,cube,There is a big blue metal cube.
+393,yes,There is a tiny green ball.
+394,rubber,There is a small red matte sphere that has the same size as a brown matte cylinder.
+395,sphere,There is a small rubber sphere which is on the left side of the yellow matte cylinder.
+396,brown,There is a brown shiny ball which has the identical shape as a large rubber sphere.
+397,no,No things have the same size as a red cylinder.
+398,no,There is a small red metallic cylinder and there is a small gray matte cube.
+399,small,There is a tiny purple metallic cylinder.
+400,1,There is a small matte cylinder.
+401,cylinder,There is a cyan metallic cylinder that is behind the large sphere that is behind the green ball.
+402,yes,There is a large blue ball and there is a tiny blue metal cylinder.
+403,cube,There is a large yellow metal cube that has the same color as a small rubber block.
+404,0,There are no small brown things which are to the right of the small brown metal cylinder.
+405,small,There is a small rubber cylinder that is to the left of the green cylinder.
+406,no,There are no things which have the identical shape as a gray ball.
+407,yes,There is a shiny red sphere and there is a red block that is behind the tiny blue matte sphere.
+408,yes,The yellow sphere to the right of the large purple metallic cube is big and the big purple metallic cube beside the small blue shiny cylinder is big.
+409,2,There are two small matte cubes.
+410,2,There is a small green metallic sphere and there is a large ball which is in front of the block.
+411,small,There is a small cylinder which is on the left side of the green metal sphere.
+412,metal,There is a tiny purple metal cylinder.
+413,yes,There is the rubber cube in front of the big brown sphere and there is a cyan cube.
+414,no,There are no small cyan things that are behind the block and there are no cyan rubber cylinders.
+415,gray,There is a gray sphere behind the blue metallic cube and in front of the red shiny sphere.
+416,cube,The small green block has the same size as a brown block.
+417,small,There is a small cube which is left of the big gray cylinder which is right of the blue sphere.
+418,yes,There is the large gray matte ball.
+419,sphere,There is a tiny yellow metallic sphere that has the same color as a small cylinder.
+420,cube,The tiny cube behind the small brown cylinder and to the right of the purple rubber sphere is a cube.
+421,small,There is a small metal block.
+422,cylinder,The large brown cylinder has the same color as a large metallic ball.
+423,yes,There is a large brown cube that is in front of the large yellow rubber cylinder that is to the right of the tiny sphere that is left of a large yellow matte cylinder.
+424,metal,There is a metallic cyan sphere that has the same color as a rubber cylinder.
+425,blue,There is the blue matte ball which has the identical material as a cyan cylinder.
+426,yes,Both the big cube and green ball have a matte material.
+427,large,There is a big rubber cylinder to the left of the tiny metal cube and in front of the big blue block.
+428,yes,There is a tiny yellow rubber cube and there is a blue matte block on the left side of the tiny rubber sphere.
+429,yes,There is a red metallic cylinder and there is a large yellow metallic cube.
+430,metal,There is a large purple shiny cube which has the identical size as a green rubber cylinder.
+431,no,There are no large gray matte cylinders.
+432,yes,There is a small cylinder that is to the left of the small cyan shiny cylinder which is left of the cylinder that is right of the red metallic cylinder.
+433,metal,The tiny cyan cylinder is shiny.
+434,cylinder,There is a tiny metal cylinder that is behind the tiny metallic sphere that is right of the tiny cylinder.
+435,sphere,There is a sphere which is on the left side of the purple cube and behind the large yellow metal cube.
+436,gray,There is a gray rubber sphere that is in front of the blue rubber ball.
+437,yes,There are a large green cube and a large cyan cube that have the same size as a yellow rubber sphere.
+438,no,There are no things which have the identical size as a blue cylinder.
+439,3,"There are a large brown cylinder, red cylinder and large brown cylinder."
+440,1,There is a ball which is on the left side of the large sphere which is behind the tiny shiny sphere.
+441,no,There is a purple matte ball that is in front of the small purple sphere and there is a brown cube that is in front of the small purple sphere.
+442,cylinder,There is a big rubber cylinder in front of the purple cube and behind the gray matte cylinder.
+443,metal,There is a yellow metal cube that has the same color as a large cube.
+444,no,There are no things that have the same size as a cyan metal block.
+445,5,"There are a small yellow cylinder, small blue sphere, small cube and small sphere which have the identical size as a gray matte sphere."
+446,2,Two green things have the same color as a big rubber cylinder.
+447,1,There are a red cylinder and two red spheres and a red metallic cube which are on the left side of the green cube that is right of the tiny block.
+448,2,There are two large spheres.
+449,large,There is a large gray matte ball which has the same shape as a brown rubber ball.
+450,yellow,There is a yellow sphere right of the shiny sphere that is in front of the sphere that is right of the brown sphere.
+451,rubber,There is a small red rubber sphere that has the same color as a small shiny cube.
+452,rubber,There is a tiny blue rubber cylinder that has the same color as a large rubber block.
+453,metal,There is the small yellow metallic ball that has the same shape as a big shiny sphere.
+454,no,There are no things that have the same material as a tiny green ball.
+455,small,There is a small gray cylinder that has the same color as a matte ball.
+456,sphere,There is a small metallic ball that is behind the small brown metal cylinder.
+457,2,There are two small green rubber blocks and one large green rubber sphere.
+458,no,There are no things which have the identical material as a small brown cylinder.
+459,red,There is a red cube which is to the right of the cylinder that is behind the purple matte sphere that is right of the cylinder.
+460,yes,The purple ball is shiny and the sphere behind the tiny cyan shiny cylinder is shiny.
+461,no,There are no tiny blocks that are behind the brown cylinder and there is a green matte ball that has a purple sphere behind it.
+462,small,There is a small brown shiny sphere that has the identical material as a green cylinder.
+463,no,There is a small blue ball and there is a tiny gray cube.
+464,no,There is a tiny cylinder that is to the left of the big ball and there is a shiny sphere that is on the left side of the small cyan cylinder.
+465,yes,There are two blue cylinders which have the identical color as a big cylinder.
+466,rubber,There is a small blue matte block which has the identical color as a large rubber cube.
+467,no,There are two things which are to the right of the yellow block and there are two metallic things which are to the right of the big cyan matte block.
+468,large,There is a big gray shiny cylinder that has the same shape as a small purple cylinder.
+469,yes,The matte cube is green and the sphere is green.
+470,rubber,There is a large brown rubber ball that has the same color as a small cylinder.
+471,2,There are two big cylinders that have the same size as a purple sphere.
+472,metal,metal
+473,large,There is a large cyan rubber cylinder that has the same color as a tiny matte ball.
+474,1,There is a large shiny sphere that is to the left of the large cube that is right of the big rubber sphere that is right of the large cylinder.
+475,5,"There are a sphere, a rubber cylinder, and a cylinder which are behind the big blue metallic sphere and there are two tiny cubes which are on the right side of the gray ball."
+476,1,There is the purple block that has the shape as a tiny purple block.
+477,small,There is a small brown rubber cube that has the same color as a big cube.
+478,yes,There is a tiny brown cylinder which is on the left side of the tiny rubber cylinder.
+479,no,There are no purple rubber blocks.
+480,yes,There is the big cyan sphere which has the identical color as a big cube.
+481,no,There are no gray metallic things which are to the right of the shiny cylinder that is in front of the cyan ball.
+482,0,There are no small cylinders that are right of the green cube.
+483,sphere,There is a sphere which is behind the gray sphere and in front of the shiny ball.
+484,green,There is a shiny cylinder which is to the right of the small yellow block and in front of the brown sphere.
+485,2,Two of the items have the same material as a small cylinder.
+486,1,There is a yellow cylinder that has the same color as a big sphere.
+487,3,There are two balls which are in the front of a large blue sphere and there is a small blue sphere.
+488,1,There is a red cube.
+489,0,There are no blocks.
+490,no,There is a small red rubber ball on the left side of the purple matte ball and there are two spheres.
+491,no,There are no tiny matte things that have the same color as a big shiny cube.
+492,metal,There is a metallic sphere that is to the left of the sphere that is right of the gray cylinder.
+493,no,There are no things that have the same shape as a big blue ball.
+494,rubber,There is a small metal cylinder that has the same shape as a blue rubber cylinder.
+495,2,There are two large metallic things and there is a big green ball.
+496,yes,There are no big yellow rubber cylinders that are in front of the yellow matte cylinder and there are no small gray matte things.
+497,no,There is a blue cylinder which is behind the tiny brown matte cube and there is a big purple metal ball which is in front of the large matte sphere.
+498,no,There are no tiny gray shiny things which have the same material as a large cylinder.
+499,no,There are no cubes that are in front of the big gray matte cylinder and there are no big cyan rubber blocks.
